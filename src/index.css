@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-sky-light font-hebrew text-slate-800 antialiased;
+    /* Learning content needs air around the niqqud (PRD §7). */
+    line-height: 2;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+@layer utilities {
+  /* One orchestrated moment: the correct-answer pop, the climb, the confetti. */
+  @keyframes pop {
+    0% { transform: scale(1); }
+    45% { transform: scale(1.12); }
+    100% { transform: scale(1); }
+  }
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20% { transform: translateX(-8px); }
+    40% { transform: translateX(8px); }
+    60% { transform: translateX(-6px); }
+    80% { transform: translateX(6px); }
+  }
+  @keyframes flash {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(56, 189, 96, 0); }
+    50% { box-shadow: 0 0 0 6px rgba(56, 189, 96, 0.55); }
+  }
+  @keyframes confetti-fall {
+    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
+    100% { transform: translate(var(--dx), 120px) rotate(var(--rot)); opacity: 0; }
+  }
+  @keyframes bob {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+  }
+  .animate-pop { animation: pop 0.45s ease; }
+  .animate-shake { animation: shake 0.5s ease; }
+  .animate-flash { animation: flash 0.7s ease 2; }
+  .animate-bob { animation: bob 1.6s ease-in-out infinite; }
+  .confetti-piece { animation: confetti-fall 0.95s ease-out forwards; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-pop,
+  .animate-shake,
+  .animate-flash,
+  .animate-bob,
+  .confetti-piece {
+    animation: none !important;
+  }
+  /* Blanket safety net: neutralise all motion when the child/OS asks for it. */
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,678 @@
+[
+  {
+    "id": "alef-kamatz",
+    "display": "אָ",
+    "spokenForm": "אָה",
+    "letter": "א",
+    "nikud": "kamatz",
+    "sound": "_a",
+    "distractors": [
+      "he-kamatz",
+      "bet-kamatz",
+      "dalet-kamatz"
+    ]
+  },
+  {
+    "id": "alef-patach",
+    "display": "אַ",
+    "spokenForm": "אַה",
+    "letter": "א",
+    "nikud": "patach",
+    "sound": "_a",
+    "distractors": [
+      "he-patach",
+      "bet-kamatz",
+      "dalet-kamatz"
+    ]
+  },
+  {
+    "id": "bet-kamatz",
+    "display": "בָּ",
+    "spokenForm": "בָּה",
+    "letter": "ב",
+    "nikud": "kamatz",
+    "sound": "b_a",
+    "distractors": [
+      "kaf-kamatz",
+      "pe-kamatz",
+      "vet-kamatz"
+    ]
+  },
+  {
+    "id": "bet-patach",
+    "display": "בַּ",
+    "spokenForm": "בַּה",
+    "letter": "ב",
+    "nikud": "patach",
+    "sound": "b_a",
+    "distractors": [
+      "kaf-patach",
+      "pe-patach",
+      "vet-patach"
+    ]
+  },
+  {
+    "id": "vet-kamatz",
+    "display": "בָ",
+    "spokenForm": "בָה",
+    "letter": "ב",
+    "nikud": "kamatz",
+    "sound": "v_a",
+    "distractors": [
+      "bet-kamatz",
+      "khaf-kamatz",
+      "nun-kamatz"
+    ]
+  },
+  {
+    "id": "vet-patach",
+    "display": "בַ",
+    "spokenForm": "בַה",
+    "letter": "ב",
+    "nikud": "patach",
+    "sound": "v_a",
+    "distractors": [
+      "bet-patach",
+      "khaf-patach",
+      "nun-patach"
+    ]
+  },
+  {
+    "id": "gimel-kamatz",
+    "display": "גָּ",
+    "spokenForm": "גָה",
+    "letter": "ג",
+    "nikud": "kamatz",
+    "sound": "g_a",
+    "distractors": [
+      "nun-kamatz",
+      "zayin-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "gimel-patach",
+    "display": "גַּ",
+    "spokenForm": "גַה",
+    "letter": "ג",
+    "nikud": "patach",
+    "sound": "g_a",
+    "distractors": [
+      "nun-patach",
+      "zayin-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "dalet-kamatz",
+    "display": "דָּ",
+    "spokenForm": "דָה",
+    "letter": "ד",
+    "nikud": "kamatz",
+    "sound": "d_a",
+    "distractors": [
+      "khaf-kamatz",
+      "resh-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "dalet-patach",
+    "display": "דַּ",
+    "spokenForm": "דַה",
+    "letter": "ד",
+    "nikud": "patach",
+    "sound": "d_a",
+    "distractors": [
+      "khaf-patach",
+      "resh-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "he-kamatz",
+    "display": "הָ",
+    "spokenForm": "הָה",
+    "letter": "ה",
+    "nikud": "kamatz",
+    "sound": "h_a",
+    "distractors": [
+      "het-kamatz",
+      "tav-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "he-patach",
+    "display": "הַ",
+    "spokenForm": "הַה",
+    "letter": "ה",
+    "nikud": "patach",
+    "sound": "h_a",
+    "distractors": [
+      "het-patach",
+      "tav-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "vav-kamatz",
+    "display": "וָ",
+    "spokenForm": "וָה",
+    "letter": "ו",
+    "nikud": "kamatz",
+    "sound": "v_a",
+    "distractors": [
+      "resh-kamatz",
+      "yod-kamatz",
+      "zayin-kamatz"
+    ]
+  },
+  {
+    "id": "vav-patach",
+    "display": "וַ",
+    "spokenForm": "וַה",
+    "letter": "ו",
+    "nikud": "patach",
+    "sound": "v_a",
+    "distractors": [
+      "resh-patach",
+      "yod-patach",
+      "zayin-patach"
+    ]
+  },
+  {
+    "id": "zayin-kamatz",
+    "display": "זָ",
+    "spokenForm": "זָה",
+    "letter": "ז",
+    "nikud": "kamatz",
+    "sound": "z_a",
+    "distractors": [
+      "gimel-kamatz",
+      "nun-kamatz",
+      "vav-kamatz"
+    ]
+  },
+  {
+    "id": "zayin-patach",
+    "display": "זַ",
+    "spokenForm": "זַה",
+    "letter": "ז",
+    "nikud": "patach",
+    "sound": "z_a",
+    "distractors": [
+      "gimel-patach",
+      "nun-patach",
+      "vav-patach"
+    ]
+  },
+  {
+    "id": "het-kamatz",
+    "display": "חָ",
+    "spokenForm": "חָה",
+    "letter": "ח",
+    "nikud": "kamatz",
+    "sound": "x_a",
+    "distractors": [
+      "he-kamatz",
+      "tav-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "het-patach",
+    "display": "חַ",
+    "spokenForm": "חַה",
+    "letter": "ח",
+    "nikud": "patach",
+    "sound": "x_a",
+    "distractors": [
+      "he-patach",
+      "tav-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "tet-kamatz",
+    "display": "טָ",
+    "spokenForm": "טָה",
+    "letter": "ט",
+    "nikud": "kamatz",
+    "sound": "t_a",
+    "distractors": [
+      "mem-kamatz",
+      "samekh-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "tet-patach",
+    "display": "טַ",
+    "spokenForm": "טַה",
+    "letter": "ט",
+    "nikud": "patach",
+    "sound": "t_a",
+    "distractors": [
+      "mem-patach",
+      "samekh-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "yod-kamatz",
+    "display": "יָ",
+    "spokenForm": "יָה",
+    "letter": "י",
+    "nikud": "kamatz",
+    "sound": "y_a",
+    "distractors": [
+      "vav-kamatz",
+      "zayin-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "yod-patach",
+    "display": "יַ",
+    "spokenForm": "יַה",
+    "letter": "י",
+    "nikud": "patach",
+    "sound": "y_a",
+    "distractors": [
+      "vav-patach",
+      "zayin-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "kaf-kamatz",
+    "display": "כָּ",
+    "spokenForm": "כָּה",
+    "letter": "כ",
+    "nikud": "kamatz",
+    "sound": "k_a",
+    "distractors": [
+      "bet-kamatz",
+      "khaf-kamatz",
+      "pe-kamatz"
+    ]
+  },
+  {
+    "id": "kaf-patach",
+    "display": "כַּ",
+    "spokenForm": "כַּה",
+    "letter": "כ",
+    "nikud": "patach",
+    "sound": "k_a",
+    "distractors": [
+      "bet-patach",
+      "khaf-patach",
+      "pe-patach"
+    ]
+  },
+  {
+    "id": "khaf-kamatz",
+    "display": "כָ",
+    "spokenForm": "כָה",
+    "letter": "כ",
+    "nikud": "kamatz",
+    "sound": "x_a",
+    "distractors": [
+      "dalet-kamatz",
+      "resh-kamatz",
+      "vet-kamatz"
+    ]
+  },
+  {
+    "id": "khaf-patach",
+    "display": "כַ",
+    "spokenForm": "כַה",
+    "letter": "כ",
+    "nikud": "patach",
+    "sound": "x_a",
+    "distractors": [
+      "dalet-patach",
+      "resh-patach",
+      "vet-patach"
+    ]
+  },
+  {
+    "id": "lamed-kamatz",
+    "display": "לָ",
+    "spokenForm": "לָה",
+    "letter": "ל",
+    "nikud": "kamatz",
+    "sound": "l_a",
+    "distractors": [
+      "nun-kamatz",
+      "vav-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "lamed-patach",
+    "display": "לַ",
+    "spokenForm": "לַה",
+    "letter": "ל",
+    "nikud": "patach",
+    "sound": "l_a",
+    "distractors": [
+      "nun-patach",
+      "vav-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "mem-kamatz",
+    "display": "מָ",
+    "spokenForm": "מָה",
+    "letter": "מ",
+    "nikud": "kamatz",
+    "sound": "m_a",
+    "distractors": [
+      "samekh-kamatz",
+      "tet-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "mem-patach",
+    "display": "מַ",
+    "spokenForm": "מַה",
+    "letter": "מ",
+    "nikud": "patach",
+    "sound": "m_a",
+    "distractors": [
+      "samekh-patach",
+      "tet-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "nun-kamatz",
+    "display": "נָ",
+    "spokenForm": "נָה",
+    "letter": "נ",
+    "nikud": "kamatz",
+    "sound": "n_a",
+    "distractors": [
+      "gimel-kamatz",
+      "vav-kamatz",
+      "zayin-kamatz"
+    ]
+  },
+  {
+    "id": "nun-patach",
+    "display": "נַ",
+    "spokenForm": "נַה",
+    "letter": "נ",
+    "nikud": "patach",
+    "sound": "n_a",
+    "distractors": [
+      "gimel-patach",
+      "vav-patach",
+      "zayin-patach"
+    ]
+  },
+  {
+    "id": "samekh-kamatz",
+    "display": "סָ",
+    "spokenForm": "סָה",
+    "letter": "ס",
+    "nikud": "kamatz",
+    "sound": "s_a",
+    "distractors": [
+      "mem-kamatz",
+      "tet-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "samekh-patach",
+    "display": "סַ",
+    "spokenForm": "סַה",
+    "letter": "ס",
+    "nikud": "patach",
+    "sound": "s_a",
+    "distractors": [
+      "mem-patach",
+      "tet-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "ayin-kamatz",
+    "display": "עָ",
+    "spokenForm": "עָה",
+    "letter": "ע",
+    "nikud": "kamatz",
+    "sound": "_a",
+    "distractors": [
+      "tsadi-kamatz",
+      "bet-kamatz",
+      "dalet-kamatz"
+    ]
+  },
+  {
+    "id": "ayin-patach",
+    "display": "עַ",
+    "spokenForm": "עַה",
+    "letter": "ע",
+    "nikud": "patach",
+    "sound": "_a",
+    "distractors": [
+      "tsadi-patach",
+      "bet-kamatz",
+      "dalet-kamatz"
+    ]
+  },
+  {
+    "id": "pe-kamatz",
+    "display": "פָּ",
+    "spokenForm": "פָּה",
+    "letter": "פ",
+    "nikud": "kamatz",
+    "sound": "p_a",
+    "distractors": [
+      "bet-kamatz",
+      "fe-kamatz",
+      "kaf-kamatz"
+    ]
+  },
+  {
+    "id": "pe-patach",
+    "display": "פַּ",
+    "spokenForm": "פַּה",
+    "letter": "פ",
+    "nikud": "patach",
+    "sound": "p_a",
+    "distractors": [
+      "bet-patach",
+      "fe-patach",
+      "kaf-patach"
+    ]
+  },
+  {
+    "id": "fe-kamatz",
+    "display": "פָ",
+    "spokenForm": "פָה",
+    "letter": "פ",
+    "nikud": "kamatz",
+    "sound": "f_a",
+    "distractors": [
+      "khaf-kamatz",
+      "pe-kamatz",
+      "vet-kamatz"
+    ]
+  },
+  {
+    "id": "fe-patach",
+    "display": "פַ",
+    "spokenForm": "פַה",
+    "letter": "פ",
+    "nikud": "patach",
+    "sound": "f_a",
+    "distractors": [
+      "khaf-patach",
+      "pe-patach",
+      "vet-patach"
+    ]
+  },
+  {
+    "id": "tsadi-kamatz",
+    "display": "צָ",
+    "spokenForm": "צָה",
+    "letter": "צ",
+    "nikud": "kamatz",
+    "sound": "ts_a",
+    "distractors": [
+      "ayin-kamatz",
+      "samekh-kamatz",
+      "bet-kamatz"
+    ]
+  },
+  {
+    "id": "tsadi-patach",
+    "display": "צַ",
+    "spokenForm": "צַה",
+    "letter": "צ",
+    "nikud": "patach",
+    "sound": "ts_a",
+    "distractors": [
+      "ayin-patach",
+      "samekh-patach",
+      "bet-kamatz"
+    ]
+  },
+  {
+    "id": "qof-kamatz",
+    "display": "קָ",
+    "spokenForm": "קָה",
+    "letter": "ק",
+    "nikud": "kamatz",
+    "sound": "k_a",
+    "distractors": [
+      "he-kamatz",
+      "alef-kamatz",
+      "bet-kamatz"
+    ]
+  },
+  {
+    "id": "qof-patach",
+    "display": "קַ",
+    "spokenForm": "קַה",
+    "letter": "ק",
+    "nikud": "patach",
+    "sound": "k_a",
+    "distractors": [
+      "he-patach",
+      "alef-kamatz",
+      "bet-kamatz"
+    ]
+  },
+  {
+    "id": "resh-kamatz",
+    "display": "רָ",
+    "spokenForm": "רָה",
+    "letter": "ר",
+    "nikud": "kamatz",
+    "sound": "r_a",
+    "distractors": [
+      "dalet-kamatz",
+      "vav-kamatz",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "resh-patach",
+    "display": "רַ",
+    "spokenForm": "רַה",
+    "letter": "ר",
+    "nikud": "patach",
+    "sound": "r_a",
+    "distractors": [
+      "dalet-patach",
+      "vav-patach",
+      "alef-kamatz"
+    ]
+  },
+  {
+    "id": "shin-kamatz",
+    "display": "שָׁ",
+    "spokenForm": "שָׁה",
+    "letter": "ש",
+    "nikud": "kamatz",
+    "sound": "sh_a",
+    "distractors": [
+      "samekh-kamatz",
+      "alef-kamatz",
+      "bet-kamatz"
+    ]
+  },
+  {
+    "id": "shin-patach",
+    "display": "שַׁ",
+    "spokenForm": "שַׁה",
+    "letter": "ש",
+    "nikud": "patach",
+    "sound": "sh_a",
+    "distractors": [
+      "samekh-patach",
+      "alef-kamatz",
+      "bet-kamatz"
+    ]
+  },
+  {
+    "id": "sin-kamatz",
+    "display": "שָׂ",
+    "spokenForm": "שָׂה",
+    "letter": "ש",
+    "nikud": "kamatz",
+    "sound": "s_a",
+    "distractors": [
+      "shin-kamatz",
+      "alef-kamatz",
+      "bet-kamatz"
+    ]
+  },
+  {
+    "id": "sin-patach",
+    "display": "שַׂ",
+    "spokenForm": "שַׂה",
+    "letter": "ש",
+    "nikud": "patach",
+    "sound": "s_a",
+    "distractors": [
+      "shin-patach",
+      "alef-kamatz",
+      "bet-kamatz"
+    ]
+  },
+  {
+    "id": "tav-kamatz",
+    "display": "תָּ",
+    "spokenForm": "תָה",
+    "letter": "ת",
+    "nikud": "kamatz",
+    "sound": "t_a",
+    "distractors": [
+      "dalet-kamatz",
+      "he-kamatz",
+      "het-kamatz"
+    ]
+  },
+  {
+    "id": "tav-patach",
+    "display": "תַּ",
+    "spokenForm": "תַה",
+    "letter": "ת",
+    "nikud": "patach",
+    "sound": "t_a",
+    "distractors": [
+      "dalet-patach",
+      "he-patach",
+      "het-patach"
+    ]
+  }
+]

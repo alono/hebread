@@ -1,0 +1,22 @@
+[
+  { "id": "s9-1", "display": "הַיֶּלֶד אוֹכֵל תַּפּוּחַ.", "comprehension": { "question": "מָה הַיֶּלֶד אוֹכֵל?", "options": ["🍎", "🍌", "🍞"], "correctIndex": 0 } },
+  { "id": "s9-2", "display": "הַכֶּלֶב רָץ בַּגַּן.", "comprehension": { "question": "אֵיפֹה רָץ הַכֶּלֶב?", "options": ["🌳", "🌊", "🏫"], "correctIndex": 0 } },
+  { "id": "s9-3", "display": "הֶחָתוּל יָשֵׁן.", "comprehension": { "question": "מִי יָשֵׁן?", "options": ["🐈", "🐕", "🐦"], "correctIndex": 0 } },
+  { "id": "s9-4", "display": "אַבָּא נוֹסֵעַ בִּמְכוֹנִית.", "comprehension": { "question": "בְּמָה נוֹסֵעַ אַבָּא?", "options": ["🚗", "🚲", "✈️"], "correctIndex": 0 } },
+  { "id": "s9-5", "display": "הַיַּלְדָּה שׁוֹתָה מַיִם.", "comprehension": { "question": "מָה שׁוֹתָה הַיַּלְדָּה?", "options": ["💧", "🥛", "🍊"], "correctIndex": 0 } },
+  { "id": "s9-6", "display": "הַשֶּׁמֶשׁ זוֹרַחַת.", "comprehension": { "question": "מָה זוֹרֵחַ?", "options": ["☀️", "🌙", "⭐"], "correctIndex": 0 } },
+  { "id": "s9-7", "display": "אִמָּא קוֹרֵאת סֵפֶר.", "comprehension": { "question": "מָה קוֹרֵאת אִמָּא?", "options": ["📖", "📱", "🎈"], "correctIndex": 0 } },
+  { "id": "s9-8", "display": "הַצִּפּוֹר עָפָה.", "comprehension": { "question": "מִי עָפָה?", "options": ["🐦", "🐈", "🐄"], "correctIndex": 0 } },
+  { "id": "s9-9", "display": "הַיֶּלֶד מְשַׂחֵק בַּכַּדּוּר.", "comprehension": { "question": "בְּמָה מְשַׂחֵק הַיֶּלֶד?", "options": ["⚽", "📖", "🍎"], "correctIndex": 0 } },
+  { "id": "s9-10", "display": "הַדָּג שׂוֹחֶה בַּיָּם.", "comprehension": { "question": "אֵיפֹה הַדָּג?", "options": ["🌊", "🌳", "🏠"], "correctIndex": 0 } },
+  { "id": "s9-11", "display": "סַבָּא יוֹשֵׁב עַל הַכִּסֵּא.", "comprehension": { "question": "עַל מָה יוֹשֵׁב סַבָּא?", "options": ["🪑", "🛏️", "🚗"], "correctIndex": 0 } },
+  { "id": "s9-12", "display": "הַיַּלְדָּה רוֹכֶבֶת עַל אוֹפַנַּיִם.", "comprehension": { "question": "עַל מָה רוֹכֶבֶת הַיַּלְדָּה?", "options": ["🚲", "🚗", "🐴"], "correctIndex": 0 } },
+  { "id": "s9-13", "display": "הַפָּרָה אוֹכֶלֶת עֵשֶׂב.", "comprehension": { "question": "מָה אוֹכֶלֶת הַפָּרָה?", "options": ["🌱", "🍎", "🍰"], "correctIndex": 0 } },
+  { "id": "s9-14", "display": "הַיֶּלֶד לוֹבֵשׁ כּוֹבַע.", "comprehension": { "question": "מָה לוֹבֵשׁ הַיֶּלֶד?", "options": ["🧢", "👟", "👕"], "correctIndex": 0 } },
+  { "id": "s9-15", "display": "אִמָּא מְבַשֶּׁלֶת מָרָק.", "comprehension": { "question": "מָה מְבַשֶּׁלֶת אִמָּא?", "options": ["🍲", "🍰", "🥤"], "correctIndex": 0 } },
+  { "id": "s9-16", "display": "הַיְלָדִים שְׂמֵחִים.", "comprehension": { "question": "אֵיךְ הַיְלָדִים?", "options": ["😀", "😢", "😴"], "correctIndex": 0 } },
+  { "id": "s9-17", "display": "בַּלַּיְלָה רוֹאִים כּוֹכָבִים.", "comprehension": { "question": "מָתַי רוֹאִים כּוֹכָבִים?", "options": ["🌙", "☀️", "🌈"], "correctIndex": 0 } },
+  { "id": "s9-18", "display": "הָאַרְנָב קוֹפֵץ.", "comprehension": { "question": "מִי קוֹפֵץ?", "options": ["🐰", "🐄", "🐌"], "correctIndex": 0 } },
+  { "id": "s9-19", "display": "הַיֶּלֶד מְצַיֵּר.", "comprehension": { "question": "מָה עוֹשֶׂה הַיֶּלֶד?", "options": ["🎨", "🍽️", "😴"], "correctIndex": 0 } },
+  { "id": "s9-20", "display": "הַגֶּשֶׁם יוֹרֵד.", "comprehension": { "question": "מָה יוֹרֵד?", "options": ["🌧️", "☀️", "❄️"], "correctIndex": 0 } }
+]

@@ -1,0 +1,678 @@
+[
+  {
+    "id": "alef-tzere",
+    "display": "אֵ",
+    "spokenForm": "אֵה",
+    "letter": "א",
+    "nikud": "tzere",
+    "sound": "_e",
+    "distractors": [
+      "he-tzere",
+      "alef-kamatz",
+      "alef-hirik"
+    ]
+  },
+  {
+    "id": "alef-segol",
+    "display": "אֶ",
+    "spokenForm": "אֶה",
+    "letter": "א",
+    "nikud": "segol",
+    "sound": "_e",
+    "distractors": [
+      "he-segol",
+      "alef-kamatz",
+      "alef-hirik"
+    ]
+  },
+  {
+    "id": "bet-tzere",
+    "display": "בֵּ",
+    "spokenForm": "בֵּה",
+    "letter": "ב",
+    "nikud": "tzere",
+    "sound": "b_e",
+    "distractors": [
+      "kaf-tzere",
+      "bet-kamatz",
+      "bet-hirik"
+    ]
+  },
+  {
+    "id": "bet-segol",
+    "display": "בֶּ",
+    "spokenForm": "בֶּה",
+    "letter": "ב",
+    "nikud": "segol",
+    "sound": "b_e",
+    "distractors": [
+      "kaf-segol",
+      "bet-kamatz",
+      "bet-hirik"
+    ]
+  },
+  {
+    "id": "vet-tzere",
+    "display": "בֵ",
+    "spokenForm": "בֵה",
+    "letter": "ב",
+    "nikud": "tzere",
+    "sound": "v_e",
+    "distractors": [
+      "bet-tzere",
+      "vet-kamatz",
+      "vet-hirik"
+    ]
+  },
+  {
+    "id": "vet-segol",
+    "display": "בֶ",
+    "spokenForm": "בֶה",
+    "letter": "ב",
+    "nikud": "segol",
+    "sound": "v_e",
+    "distractors": [
+      "bet-segol",
+      "vet-kamatz",
+      "vet-hirik"
+    ]
+  },
+  {
+    "id": "gimel-tzere",
+    "display": "גֵּ",
+    "spokenForm": "גֵה",
+    "letter": "ג",
+    "nikud": "tzere",
+    "sound": "g_e",
+    "distractors": [
+      "nun-tzere",
+      "gimel-kamatz",
+      "gimel-hirik"
+    ]
+  },
+  {
+    "id": "gimel-segol",
+    "display": "גֶּ",
+    "spokenForm": "גֶה",
+    "letter": "ג",
+    "nikud": "segol",
+    "sound": "g_e",
+    "distractors": [
+      "nun-segol",
+      "gimel-kamatz",
+      "gimel-hirik"
+    ]
+  },
+  {
+    "id": "dalet-tzere",
+    "display": "דֵּ",
+    "spokenForm": "דֵה",
+    "letter": "ד",
+    "nikud": "tzere",
+    "sound": "d_e",
+    "distractors": [
+      "khaf-tzere",
+      "dalet-kamatz",
+      "dalet-hirik"
+    ]
+  },
+  {
+    "id": "dalet-segol",
+    "display": "דֶּ",
+    "spokenForm": "דֶה",
+    "letter": "ד",
+    "nikud": "segol",
+    "sound": "d_e",
+    "distractors": [
+      "khaf-segol",
+      "dalet-kamatz",
+      "dalet-hirik"
+    ]
+  },
+  {
+    "id": "he-tzere",
+    "display": "הֵ",
+    "spokenForm": "הֵה",
+    "letter": "ה",
+    "nikud": "tzere",
+    "sound": "h_e",
+    "distractors": [
+      "het-tzere",
+      "he-kamatz",
+      "he-hirik"
+    ]
+  },
+  {
+    "id": "he-segol",
+    "display": "הֶ",
+    "spokenForm": "הֶה",
+    "letter": "ה",
+    "nikud": "segol",
+    "sound": "h_e",
+    "distractors": [
+      "het-segol",
+      "he-kamatz",
+      "he-hirik"
+    ]
+  },
+  {
+    "id": "vav-tzere",
+    "display": "וֵ",
+    "spokenForm": "וֵה",
+    "letter": "ו",
+    "nikud": "tzere",
+    "sound": "v_e",
+    "distractors": [
+      "resh-tzere",
+      "vav-kamatz",
+      "vav-hirik"
+    ]
+  },
+  {
+    "id": "vav-segol",
+    "display": "וֶ",
+    "spokenForm": "וֶה",
+    "letter": "ו",
+    "nikud": "segol",
+    "sound": "v_e",
+    "distractors": [
+      "resh-segol",
+      "vav-kamatz",
+      "vav-hirik"
+    ]
+  },
+  {
+    "id": "zayin-tzere",
+    "display": "זֵ",
+    "spokenForm": "זֵה",
+    "letter": "ז",
+    "nikud": "tzere",
+    "sound": "z_e",
+    "distractors": [
+      "gimel-tzere",
+      "zayin-kamatz",
+      "zayin-hirik"
+    ]
+  },
+  {
+    "id": "zayin-segol",
+    "display": "זֶ",
+    "spokenForm": "זֶה",
+    "letter": "ז",
+    "nikud": "segol",
+    "sound": "z_e",
+    "distractors": [
+      "gimel-segol",
+      "zayin-kamatz",
+      "zayin-hirik"
+    ]
+  },
+  {
+    "id": "het-tzere",
+    "display": "חֵ",
+    "spokenForm": "חֵה",
+    "letter": "ח",
+    "nikud": "tzere",
+    "sound": "x_e",
+    "distractors": [
+      "he-tzere",
+      "het-kamatz",
+      "het-hirik"
+    ]
+  },
+  {
+    "id": "het-segol",
+    "display": "חֶ",
+    "spokenForm": "חֶה",
+    "letter": "ח",
+    "nikud": "segol",
+    "sound": "x_e",
+    "distractors": [
+      "he-segol",
+      "het-kamatz",
+      "het-hirik"
+    ]
+  },
+  {
+    "id": "tet-tzere",
+    "display": "טֵ",
+    "spokenForm": "טֵה",
+    "letter": "ט",
+    "nikud": "tzere",
+    "sound": "t_e",
+    "distractors": [
+      "mem-tzere",
+      "tet-kamatz",
+      "tet-hirik"
+    ]
+  },
+  {
+    "id": "tet-segol",
+    "display": "טֶ",
+    "spokenForm": "טֶה",
+    "letter": "ט",
+    "nikud": "segol",
+    "sound": "t_e",
+    "distractors": [
+      "mem-segol",
+      "tet-kamatz",
+      "tet-hirik"
+    ]
+  },
+  {
+    "id": "yod-tzere",
+    "display": "יֵ",
+    "spokenForm": "יֵה",
+    "letter": "י",
+    "nikud": "tzere",
+    "sound": "y_e",
+    "distractors": [
+      "vav-tzere",
+      "yod-kamatz",
+      "yod-hirik"
+    ]
+  },
+  {
+    "id": "yod-segol",
+    "display": "יֶ",
+    "spokenForm": "יֶה",
+    "letter": "י",
+    "nikud": "segol",
+    "sound": "y_e",
+    "distractors": [
+      "vav-segol",
+      "yod-kamatz",
+      "yod-hirik"
+    ]
+  },
+  {
+    "id": "kaf-tzere",
+    "display": "כֵּ",
+    "spokenForm": "כֵּה",
+    "letter": "כ",
+    "nikud": "tzere",
+    "sound": "k_e",
+    "distractors": [
+      "bet-tzere",
+      "kaf-kamatz",
+      "kaf-hirik"
+    ]
+  },
+  {
+    "id": "kaf-segol",
+    "display": "כֶּ",
+    "spokenForm": "כֶּה",
+    "letter": "כ",
+    "nikud": "segol",
+    "sound": "k_e",
+    "distractors": [
+      "bet-segol",
+      "kaf-kamatz",
+      "kaf-hirik"
+    ]
+  },
+  {
+    "id": "khaf-tzere",
+    "display": "כֵ",
+    "spokenForm": "כֵה",
+    "letter": "כ",
+    "nikud": "tzere",
+    "sound": "x_e",
+    "distractors": [
+      "dalet-tzere",
+      "khaf-kamatz",
+      "khaf-hirik"
+    ]
+  },
+  {
+    "id": "khaf-segol",
+    "display": "כֶ",
+    "spokenForm": "כֶה",
+    "letter": "כ",
+    "nikud": "segol",
+    "sound": "x_e",
+    "distractors": [
+      "dalet-segol",
+      "khaf-kamatz",
+      "khaf-hirik"
+    ]
+  },
+  {
+    "id": "lamed-tzere",
+    "display": "לֵ",
+    "spokenForm": "לֵה",
+    "letter": "ל",
+    "nikud": "tzere",
+    "sound": "l_e",
+    "distractors": [
+      "nun-tzere",
+      "lamed-kamatz",
+      "lamed-hirik"
+    ]
+  },
+  {
+    "id": "lamed-segol",
+    "display": "לֶ",
+    "spokenForm": "לֶה",
+    "letter": "ל",
+    "nikud": "segol",
+    "sound": "l_e",
+    "distractors": [
+      "nun-segol",
+      "lamed-kamatz",
+      "lamed-hirik"
+    ]
+  },
+  {
+    "id": "mem-tzere",
+    "display": "מֵ",
+    "spokenForm": "מֵה",
+    "letter": "מ",
+    "nikud": "tzere",
+    "sound": "m_e",
+    "distractors": [
+      "samekh-tzere",
+      "mem-kamatz",
+      "mem-hirik"
+    ]
+  },
+  {
+    "id": "mem-segol",
+    "display": "מֶ",
+    "spokenForm": "מֶה",
+    "letter": "מ",
+    "nikud": "segol",
+    "sound": "m_e",
+    "distractors": [
+      "samekh-segol",
+      "mem-kamatz",
+      "mem-hirik"
+    ]
+  },
+  {
+    "id": "nun-tzere",
+    "display": "נֵ",
+    "spokenForm": "נֵה",
+    "letter": "נ",
+    "nikud": "tzere",
+    "sound": "n_e",
+    "distractors": [
+      "gimel-tzere",
+      "nun-kamatz",
+      "nun-hirik"
+    ]
+  },
+  {
+    "id": "nun-segol",
+    "display": "נֶ",
+    "spokenForm": "נֶה",
+    "letter": "נ",
+    "nikud": "segol",
+    "sound": "n_e",
+    "distractors": [
+      "gimel-segol",
+      "nun-kamatz",
+      "nun-hirik"
+    ]
+  },
+  {
+    "id": "samekh-tzere",
+    "display": "סֵ",
+    "spokenForm": "סֵה",
+    "letter": "ס",
+    "nikud": "tzere",
+    "sound": "s_e",
+    "distractors": [
+      "mem-tzere",
+      "samekh-kamatz",
+      "samekh-hirik"
+    ]
+  },
+  {
+    "id": "samekh-segol",
+    "display": "סֶ",
+    "spokenForm": "סֶה",
+    "letter": "ס",
+    "nikud": "segol",
+    "sound": "s_e",
+    "distractors": [
+      "mem-segol",
+      "samekh-kamatz",
+      "samekh-hirik"
+    ]
+  },
+  {
+    "id": "ayin-tzere",
+    "display": "עֵ",
+    "spokenForm": "עֵה",
+    "letter": "ע",
+    "nikud": "tzere",
+    "sound": "_e",
+    "distractors": [
+      "tsadi-tzere",
+      "ayin-kamatz",
+      "ayin-hirik"
+    ]
+  },
+  {
+    "id": "ayin-segol",
+    "display": "עֶ",
+    "spokenForm": "עֶה",
+    "letter": "ע",
+    "nikud": "segol",
+    "sound": "_e",
+    "distractors": [
+      "tsadi-segol",
+      "ayin-kamatz",
+      "ayin-hirik"
+    ]
+  },
+  {
+    "id": "pe-tzere",
+    "display": "פֵּ",
+    "spokenForm": "פֵּה",
+    "letter": "פ",
+    "nikud": "tzere",
+    "sound": "p_e",
+    "distractors": [
+      "bet-tzere",
+      "pe-kamatz",
+      "pe-hirik"
+    ]
+  },
+  {
+    "id": "pe-segol",
+    "display": "פֶּ",
+    "spokenForm": "פֶּה",
+    "letter": "פ",
+    "nikud": "segol",
+    "sound": "p_e",
+    "distractors": [
+      "bet-segol",
+      "pe-kamatz",
+      "pe-hirik"
+    ]
+  },
+  {
+    "id": "fe-tzere",
+    "display": "פֵ",
+    "spokenForm": "פֵה",
+    "letter": "פ",
+    "nikud": "tzere",
+    "sound": "f_e",
+    "distractors": [
+      "khaf-tzere",
+      "fe-kamatz",
+      "fe-hirik"
+    ]
+  },
+  {
+    "id": "fe-segol",
+    "display": "פֶ",
+    "spokenForm": "פֶה",
+    "letter": "פ",
+    "nikud": "segol",
+    "sound": "f_e",
+    "distractors": [
+      "khaf-segol",
+      "fe-kamatz",
+      "fe-hirik"
+    ]
+  },
+  {
+    "id": "tsadi-tzere",
+    "display": "צֵ",
+    "spokenForm": "צֵה",
+    "letter": "צ",
+    "nikud": "tzere",
+    "sound": "ts_e",
+    "distractors": [
+      "ayin-tzere",
+      "tsadi-kamatz",
+      "tsadi-hirik"
+    ]
+  },
+  {
+    "id": "tsadi-segol",
+    "display": "צֶ",
+    "spokenForm": "צֶה",
+    "letter": "צ",
+    "nikud": "segol",
+    "sound": "ts_e",
+    "distractors": [
+      "ayin-segol",
+      "tsadi-kamatz",
+      "tsadi-hirik"
+    ]
+  },
+  {
+    "id": "qof-tzere",
+    "display": "קֵ",
+    "spokenForm": "קֵה",
+    "letter": "ק",
+    "nikud": "tzere",
+    "sound": "k_e",
+    "distractors": [
+      "he-tzere",
+      "qof-kamatz",
+      "qof-hirik"
+    ]
+  },
+  {
+    "id": "qof-segol",
+    "display": "קֶ",
+    "spokenForm": "קֶה",
+    "letter": "ק",
+    "nikud": "segol",
+    "sound": "k_e",
+    "distractors": [
+      "he-segol",
+      "qof-kamatz",
+      "qof-hirik"
+    ]
+  },
+  {
+    "id": "resh-tzere",
+    "display": "רֵ",
+    "spokenForm": "רֵה",
+    "letter": "ר",
+    "nikud": "tzere",
+    "sound": "r_e",
+    "distractors": [
+      "dalet-tzere",
+      "resh-kamatz",
+      "resh-hirik"
+    ]
+  },
+  {
+    "id": "resh-segol",
+    "display": "רֶ",
+    "spokenForm": "רֶה",
+    "letter": "ר",
+    "nikud": "segol",
+    "sound": "r_e",
+    "distractors": [
+      "dalet-segol",
+      "resh-kamatz",
+      "resh-hirik"
+    ]
+  },
+  {
+    "id": "shin-tzere",
+    "display": "שֵׁ",
+    "spokenForm": "שֵׁה",
+    "letter": "ש",
+    "nikud": "tzere",
+    "sound": "sh_e",
+    "distractors": [
+      "samekh-tzere",
+      "shin-kamatz",
+      "shin-hirik"
+    ]
+  },
+  {
+    "id": "shin-segol",
+    "display": "שֶׁ",
+    "spokenForm": "שֶׁה",
+    "letter": "ש",
+    "nikud": "segol",
+    "sound": "sh_e",
+    "distractors": [
+      "samekh-segol",
+      "shin-kamatz",
+      "shin-hirik"
+    ]
+  },
+  {
+    "id": "sin-tzere",
+    "display": "שֵׂ",
+    "spokenForm": "שֵׂה",
+    "letter": "ש",
+    "nikud": "tzere",
+    "sound": "s_e",
+    "distractors": [
+      "shin-tzere",
+      "sin-kamatz",
+      "sin-hirik"
+    ]
+  },
+  {
+    "id": "sin-segol",
+    "display": "שֶׂ",
+    "spokenForm": "שֶׂה",
+    "letter": "ש",
+    "nikud": "segol",
+    "sound": "s_e",
+    "distractors": [
+      "shin-segol",
+      "sin-kamatz",
+      "sin-hirik"
+    ]
+  },
+  {
+    "id": "tav-tzere",
+    "display": "תֵּ",
+    "spokenForm": "תֵה",
+    "letter": "ת",
+    "nikud": "tzere",
+    "sound": "t_e",
+    "distractors": [
+      "dalet-tzere",
+      "tav-kamatz",
+      "tav-hirik"
+    ]
+  },
+  {
+    "id": "tav-segol",
+    "display": "תֶּ",
+    "spokenForm": "תֶה",
+    "letter": "ת",
+    "nikud": "segol",
+    "sound": "t_e",
+    "distractors": [
+      "dalet-segol",
+      "tav-kamatz",
+      "tav-hirik"
+    ]
+  }
+]

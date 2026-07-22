@@ -1,0 +1,3036 @@
+{
+  "alef-hirik": {
+    "file": "5fb759b12634e17c.mp3",
+    "text": "אִה"
+  },
+  "alef-hirikMale": {
+    "file": "2f58974bc2ab8303.mp3",
+    "text": "אִי"
+  },
+  "alef-holam": {
+    "file": "15d8388c8226fc5a.mp3",
+    "text": "אוֹ"
+  },
+  "alef-holamMale": {
+    "file": "15d8388c8226fc5a.mp3",
+    "text": "אוֹ"
+  },
+  "alef-kamatz": {
+    "file": "c7ba7d775424b0dd.mp3",
+    "text": "אָה"
+  },
+  "alef-kubutz": {
+    "file": "abe1b05a2328556d.mp3",
+    "text": "אוּ"
+  },
+  "alef-patach": {
+    "file": "791eacb7977ea154.mp3",
+    "text": "אַה"
+  },
+  "alef-segol": {
+    "file": "5d6d3616f31673b9.mp3",
+    "text": "אֶה"
+  },
+  "alef-shuruk": {
+    "file": "abe1b05a2328556d.mp3",
+    "text": "אוּ"
+  },
+  "alef-shvaNa": {
+    "file": "1f9f0d2d888927d5.mp3",
+    "text": "אֵה",
+    "rate": "+100%"
+  },
+  "alef-tzere": {
+    "file": "446da89c73b78c18.mp3",
+    "text": "אֵה"
+  },
+  "ayin-hirik": {
+    "file": "904207f9b9066572.mp3",
+    "text": "עִה"
+  },
+  "ayin-hirikMale": {
+    "file": "45a2f49a41f48236.mp3",
+    "text": "עִי"
+  },
+  "ayin-holam": {
+    "file": "d92cfabfd29f7844.mp3",
+    "text": "עוֹ"
+  },
+  "ayin-holamMale": {
+    "file": "d92cfabfd29f7844.mp3",
+    "text": "עוֹ"
+  },
+  "ayin-kamatz": {
+    "file": "09040d70f920a7c7.mp3",
+    "text": "עָה"
+  },
+  "ayin-kubutz": {
+    "file": "881e7f66f9e38b0b.mp3",
+    "text": "עוּ"
+  },
+  "ayin-patach": {
+    "file": "e1d455ce73fc745b.mp3",
+    "text": "עַה"
+  },
+  "ayin-segol": {
+    "file": "40a90384471a396b.mp3",
+    "text": "עֶה"
+  },
+  "ayin-shuruk": {
+    "file": "881e7f66f9e38b0b.mp3",
+    "text": "עוּ"
+  },
+  "ayin-shvaNa": {
+    "file": "06e2fb960a3d134e.mp3",
+    "text": "עֵה",
+    "rate": "+100%"
+  },
+  "ayin-tzere": {
+    "file": "2f254c12d6c9d090.mp3",
+    "text": "עֵה"
+  },
+  "bet-hirik": {
+    "file": "acf642585813ca77.mp3",
+    "text": "בִּה"
+  },
+  "bet-hirikMale": {
+    "file": "ae55d3e0c965325c.mp3",
+    "text": "בִּי"
+  },
+  "bet-holam": {
+    "file": "7df0d4bf7e5adf34.mp3",
+    "text": "בּוֹ"
+  },
+  "bet-holamMale": {
+    "file": "7df0d4bf7e5adf34.mp3",
+    "text": "בּוֹ"
+  },
+  "bet-kamatz": {
+    "file": "9ceae661661c5a58.mp3",
+    "text": "בָּה"
+  },
+  "bet-kubutz": {
+    "file": "94a9149595e2d691.mp3",
+    "text": "בּוּ"
+  },
+  "bet-patach": {
+    "file": "a12c1dd444644652.mp3",
+    "text": "בַּה"
+  },
+  "bet-segol": {
+    "file": "d1cd9f227edf2913.mp3",
+    "text": "בֶּה"
+  },
+  "bet-shuruk": {
+    "file": "94a9149595e2d691.mp3",
+    "text": "בּוּ"
+  },
+  "bet-shvaNa": {
+    "file": "003117390620f85f.mp3",
+    "text": "בֵּה",
+    "rate": "+100%"
+  },
+  "bet-tzere": {
+    "file": "83cf609d0f782560.mp3",
+    "text": "בֵּה"
+  },
+  "dalet-hirik": {
+    "file": "b378dcb23d77659c.mp3",
+    "text": "דִה"
+  },
+  "dalet-hirikMale": {
+    "file": "66cc367e94d36f5e.mp3",
+    "text": "דִי"
+  },
+  "dalet-holam": {
+    "file": "d180dd70582754c8.mp3",
+    "text": "דוֹ"
+  },
+  "dalet-holamMale": {
+    "file": "d180dd70582754c8.mp3",
+    "text": "דוֹ"
+  },
+  "dalet-kamatz": {
+    "file": "6559d9b5170d71e0.mp3",
+    "text": "דָה"
+  },
+  "dalet-kubutz": {
+    "file": "b42f9f5a0162a3bd.mp3",
+    "text": "דוּ"
+  },
+  "dalet-patach": {
+    "file": "f954b1422d8e10b4.mp3",
+    "text": "דַה"
+  },
+  "dalet-segol": {
+    "file": "afbe9c99f8fe5f39.mp3",
+    "text": "דֶה"
+  },
+  "dalet-shuruk": {
+    "file": "b42f9f5a0162a3bd.mp3",
+    "text": "דוּ"
+  },
+  "dalet-shvaNa": {
+    "file": "77cee3bfeef680e0.mp3",
+    "text": "דֵה",
+    "rate": "+100%"
+  },
+  "dalet-tzere": {
+    "file": "1f5bbc0f2a69bf94.mp3",
+    "text": "דֵה"
+  },
+  "f-acharei": {
+    "file": "9175e392ea179c52.mp3",
+    "text": "אַחֲרֵי"
+  },
+  "f-achshav": {
+    "file": "3cb2a9e202b5ff46.mp3",
+    "text": "עַכְשָׁיו"
+  },
+  "f-adayin": {
+    "file": "fe660cfe12e9c23a.mp3",
+    "text": "עֲדַיִן"
+  },
+  "f-al": {
+    "file": "f5d092260ac5ee32.mp3",
+    "text": "עַל"
+  },
+  "f-ani": {
+    "file": "4d26d97e11404114.mp3",
+    "text": "אֲנִי"
+  },
+  "f-at": {
+    "file": "3d4a2a9383d57d90.mp3",
+    "text": "אַתְּ"
+  },
+  "f-ata": {
+    "file": "c6e353f7d0be397c.mp3",
+    "text": "אַתָּה"
+  },
+  "f-aval": {
+    "file": "f5e3dc223bbda697.mp3",
+    "text": "אֲבָל"
+  },
+  "f-bediyuk": {
+    "file": "e79b3f5b28044d44.mp3",
+    "text": "בְּדִיּוּק"
+  },
+  "f-bein": {
+    "file": "cb5839618575912f.mp3",
+    "text": "בֵּין"
+  },
+  "f-beseder": {
+    "file": "64921a7e0deb2ff2.mp3",
+    "text": "בְּסֵדֶר"
+  },
+  "f-betach": {
+    "file": "b93d26f2dca4307f.mp3",
+    "text": "בֶּטַח"
+  },
+  "f-biglal": {
+    "file": "4b032d2b34fda74b.mp3",
+    "text": "בִּגְלַל"
+  },
+  "f-bli": {
+    "file": "cef47f9ecae61410.mp3",
+    "text": "בְּלִי"
+  },
+  "f-chadash": {
+    "file": "08c8e17b308df569.mp3",
+    "text": "חָדָשׁ"
+  },
+  "f-cham": {
+    "file": "c8fe7464b0c83425.mp3",
+    "text": "חַם"
+  },
+  "f-dai": {
+    "file": "1fd3e6356c5c679f.mp3",
+    "text": "דַּי"
+  },
+  "f-echad": {
+    "file": "c8b229ee6d6d5e0b.mp3",
+    "text": "אֶחָד"
+  },
+  "f-eich": {
+    "file": "623f6fe38098b691.mp3",
+    "text": "אֵיךְ"
+  },
+  "f-eifo": {
+    "file": "6ec63ce59cbb3010.mp3",
+    "text": "אֵיפֹה"
+  },
+  "f-ein": {
+    "file": "07bde9d3db6ca6fb.mp3",
+    "text": "אֵין"
+  },
+  "f-el": {
+    "file": "cb8234dd680386d8.mp3",
+    "text": "אֶל"
+  },
+  "f-ele": {
+    "file": "db27e38610ff16c1.mp3",
+    "text": "אֵלֶּה"
+  },
+  "f-et": {
+    "file": "50a4da4d11c30f43.mp3",
+    "text": "אֶת"
+  },
+  "f-etmol": {
+    "file": "672788f0dc98b8d6.mp3",
+    "text": "אֶתְמוֹל"
+  },
+  "f-gadol": {
+    "file": "f3eddc2d9a54f862.mp3",
+    "text": "גָּדוֹל"
+  },
+  "f-gam": {
+    "file": "41b162ddaddbb130.mp3",
+    "text": "גַּם"
+  },
+  "f-hakol": {
+    "file": "f0f23b70ff39e7df.mp3",
+    "text": "הַכֹּל"
+  },
+  "f-harbe": {
+    "file": "7c69d6943f106a3e.mp3",
+    "text": "הַרְבֵּה"
+  },
+  "f-hayom": {
+    "file": "b213b1c9d6d6136a.mp3",
+    "text": "הַיּוֹם"
+  },
+  "f-hem": {
+    "file": "84d5c62ebaecd895.mp3",
+    "text": "הֵם"
+  },
+  "f-hen": {
+    "file": "9f93c1b061630e28.mp3",
+    "text": "הֵן"
+  },
+  "f-hi": {
+    "file": "ef66dcf90a6d247c.mp3",
+    "text": "הִיא"
+  },
+  "f-hu": {
+    "file": "a6a2ffd52472322b.mp3",
+    "text": "הוּא"
+  },
+  "f-im": {
+    "file": "8dbb2a3506557f40.mp3",
+    "text": "אִם"
+  },
+  "f-im2": {
+    "file": "de5c23e40af558c1.mp3",
+    "text": "עִם"
+  },
+  "f-kal": {
+    "file": "53e86bbf61ae3f0e.mp3",
+    "text": "קַל"
+  },
+  "f-kan": {
+    "file": "b1803a55e34a9f24.mp3",
+    "text": "כָּאן"
+  },
+  "f-kar": {
+    "file": "35eedad1d531ab91.mp3",
+    "text": "קַר"
+  },
+  "f-kashe": {
+    "file": "a7f10b7f9a7d933a.mp3",
+    "text": "קָשֶׁה"
+  },
+  "f-katan": {
+    "file": "09ef000e14530537.mp3",
+    "text": "קָטָן"
+  },
+  "f-kaze": {
+    "file": "f53be8e49c40b065.mp3",
+    "text": "כָּזֶה"
+  },
+  "f-kdei": {
+    "file": "41d5d70778d2bbe1.mp3",
+    "text": "כְּדֵי"
+  },
+  "f-ken": {
+    "file": "b6f149031132a0ae.mp3",
+    "text": "כֵּן"
+  },
+  "f-ki": {
+    "file": "4228287e700faa00.mp3",
+    "text": "כִּי"
+  },
+  "f-klum": {
+    "file": "e133dc0604e8fbc8.mp3",
+    "text": "כְּלוּם"
+  },
+  "f-kmo": {
+    "file": "acd89579ce314e10.mp3",
+    "text": "כְּמוֹ"
+  },
+  "f-kol": {
+    "file": "3c6afb5290c92c6c.mp3",
+    "text": "כָּל"
+  },
+  "f-ktsat": {
+    "file": "86081f252b80da77.mp3",
+    "text": "קְצָת"
+  },
+  "f-kulam": {
+    "file": "f2c5e898bfe05828.mp3",
+    "text": "כֻּלָּם"
+  },
+  "f-kvar": {
+    "file": "6c591d054981d83a.mp3",
+    "text": "כְּבָר"
+  },
+  "f-lachen": {
+    "file": "db79b93ef40d28a3.mp3",
+    "text": "לָכֵן"
+  },
+  "f-lama": {
+    "file": "8e13c8b64eb5e5cf.mp3",
+    "text": "לָמָּה"
+  },
+  "f-leat": {
+    "file": "a20c047dde838efd.mp3",
+    "text": "לְאַט"
+  },
+  "f-levad": {
+    "file": "c035b06c75f18b84.mp3",
+    "text": "לְבַד"
+  },
+  "f-leyad": {
+    "file": "547288cd16201aa3.mp3",
+    "text": "לְיַד"
+  },
+  "f-lifnei": {
+    "file": "60dce8ec9cc79491.mp3",
+    "text": "לִפְנֵי"
+  },
+  "f-lo": {
+    "file": "468ff7cf87259b5b.mp3",
+    "text": "לֹא"
+  },
+  "f-ma": {
+    "file": "2a788e8f10c4c15d.mp3",
+    "text": "מָה"
+  },
+  "f-machar": {
+    "file": "53b47a05b636bcb8.mp3",
+    "text": "מָחָר"
+  },
+  "f-maher": {
+    "file": "e04ecefd923be128.mp3",
+    "text": "מַהֵר"
+  },
+  "f-mamash": {
+    "file": "572befd11f51c380.mp3",
+    "text": "מַמָּשׁ"
+  },
+  "f-mashehu": {
+    "file": "eed91e26cb16768b.mp3",
+    "text": "מַשֶּׁהוּ"
+  },
+  "f-maspik": {
+    "file": "16032be9621d3cca.mp3",
+    "text": "מַסְפִּיק"
+  },
+  "f-matai": {
+    "file": "965e371063aae758.mp3",
+    "text": "מָתַי"
+  },
+  "f-meal": {
+    "file": "ea7033cbba7129d8.mp3",
+    "text": "מֵעַל"
+  },
+  "f-meat": {
+    "file": "31c041b3c621a468.mp3",
+    "text": "מְעַט"
+  },
+  "f-meod": {
+    "file": "9c0143a6a5804106.mp3",
+    "text": "מְאֹד"
+  },
+  "f-mi": {
+    "file": "6395382093d8f680.mp3",
+    "text": "מִי"
+  },
+  "f-min": {
+    "file": "99c8ab1507f309cf.mp3",
+    "text": "מִן"
+  },
+  "f-nachon": {
+    "file": "d747c910616e7345.mp3",
+    "text": "נָכוֹן"
+  },
+  "f-o": {
+    "file": "15d8388c8226fc5a.mp3",
+    "text": "אוֹ"
+  },
+  "f-od": {
+    "file": "f25614c069669a3a.mp3",
+    "text": "עוֹד"
+  },
+  "f-otanu": {
+    "file": "c345f38ad142c83f.mp3",
+    "text": "אוֹתָנוּ"
+  },
+  "f-oto": {
+    "file": "be5900f4130f7d65.mp3",
+    "text": "אוֹתוֹ"
+  },
+  "f-paam": {
+    "file": "0ee05bcde172e7a0.mp3",
+    "text": "פַּעַם"
+  },
+  "f-pitom": {
+    "file": "6f07c8677517517a.mp3",
+    "text": "פִּתְאֹם"
+  },
+  "f-po": {
+    "file": "4b6a91cf528d2936.mp3",
+    "text": "פֹּה"
+  },
+  "f-ra": {
+    "file": "e117524c34661b36.mp3",
+    "text": "רַע"
+  },
+  "f-rak": {
+    "file": "ec333bc83113ddaa.mp3",
+    "text": "רַק"
+  },
+  "f-rega": {
+    "file": "6ec1c7a219cea9ea.mp3",
+    "text": "רֶגַע"
+  },
+  "f-shalosh": {
+    "file": "d579dcbf6269719d.mp3",
+    "text": "שָׁלוֹשׁ"
+  },
+  "f-sham": {
+    "file": "baf310c71889a8f7.mp3",
+    "text": "שָׁם"
+  },
+  "f-shel": {
+    "file": "72af6c59b913dea3.mp3",
+    "text": "שֶׁל"
+  },
+  "f-shelah": {
+    "file": "e3a28f894a5e3084.mp3",
+    "text": "שֶׁלָּהּ"
+  },
+  "f-shelanu": {
+    "file": "7c2876877b555ba7.mp3",
+    "text": "שֶׁלָּנוּ"
+  },
+  "f-shelcha": {
+    "file": "cdb72e88e3b07416.mp3",
+    "text": "שֶׁלְּךָ"
+  },
+  "f-sheli": {
+    "file": "9f63e2c9699b0c12.mp3",
+    "text": "שֶׁלִּי"
+  },
+  "f-shnayim": {
+    "file": "baead7134004d058.mp3",
+    "text": "שְׁנַיִם"
+  },
+  "f-shuv": {
+    "file": "e74f4a563e3ca233.mp3",
+    "text": "שׁוּב"
+  },
+  "f-tachat": {
+    "file": "0e1c0f4ba4d04c93.mp3",
+    "text": "תַּחַת"
+  },
+  "f-tamid": {
+    "file": "db1f7c2cab46f66e.mp3",
+    "text": "תָּמִיד"
+  },
+  "f-tov": {
+    "file": "f056b7f783f33de9.mp3",
+    "text": "טוֹב"
+  },
+  "f-ulai": {
+    "file": "c0a21f79fefb9a79.mp3",
+    "text": "אוּלַי"
+  },
+  "f-yachad": {
+    "file": "ed5fe83b820561e2.mp3",
+    "text": "יַחַד"
+  },
+  "f-yafe": {
+    "file": "d86b540efca87e05.mp3",
+    "text": "יָפֶה"
+  },
+  "f-yashan": {
+    "file": "98cabfc82e8c179c.mp3",
+    "text": "יָשָׁן"
+  },
+  "f-yesh": {
+    "file": "961c0d96933d4057.mp3",
+    "text": "יֵשׁ"
+  },
+  "f-ze": {
+    "file": "28b270e2386fe95c.mp3",
+    "text": "זֶה"
+  },
+  "f-zot": {
+    "file": "632eed94cee13212.mp3",
+    "text": "זֹאת"
+  },
+  "fe-hirik": {
+    "file": "66c6611477f8a902.mp3",
+    "text": "פִה"
+  },
+  "fe-hirikMale": {
+    "file": "6487337b07ba2a83.mp3",
+    "text": "פִי"
+  },
+  "fe-holam": {
+    "file": "d6865768c8360f98.mp3",
+    "text": "פוֹא"
+  },
+  "fe-holamMale": {
+    "file": "d6865768c8360f98.mp3",
+    "text": "פוֹא"
+  },
+  "fe-kamatz": {
+    "file": "30fb910ce098b5ac.mp3",
+    "text": "פָה"
+  },
+  "fe-kubutz": {
+    "file": "eb4107092836b325.mp3",
+    "text": "פוּא"
+  },
+  "fe-patach": {
+    "file": "9ca7cdc83e20f7ea.mp3",
+    "text": "פַה"
+  },
+  "fe-segol": {
+    "file": "2bc8b23eea872305.mp3",
+    "text": "פֶה"
+  },
+  "fe-shuruk": {
+    "file": "eb4107092836b325.mp3",
+    "text": "פוּא"
+  },
+  "fe-shvaNa": {
+    "file": "e8e754d9828bdddb.mp3",
+    "text": "פֵה",
+    "rate": "+100%"
+  },
+  "fe-tzere": {
+    "file": "b21ece6b6add3cb8.mp3",
+    "text": "פֵה"
+  },
+  "gimel-hirik": {
+    "file": "682206d931190735.mp3",
+    "text": "גִה"
+  },
+  "gimel-hirikMale": {
+    "file": "82fb838bdb165133.mp3",
+    "text": "גִי"
+  },
+  "gimel-holam": {
+    "file": "97d40402b83524bf.mp3",
+    "text": "גוֹ"
+  },
+  "gimel-holamMale": {
+    "file": "97d40402b83524bf.mp3",
+    "text": "גוֹ"
+  },
+  "gimel-kamatz": {
+    "file": "947dfeaefef5c992.mp3",
+    "text": "גָה"
+  },
+  "gimel-kubutz": {
+    "file": "8052f569e17372e9.mp3",
+    "text": "גוּ"
+  },
+  "gimel-patach": {
+    "file": "fb9c7c31436f5244.mp3",
+    "text": "גַה"
+  },
+  "gimel-segol": {
+    "file": "e45b383036641fff.mp3",
+    "text": "גֶה"
+  },
+  "gimel-shuruk": {
+    "file": "8052f569e17372e9.mp3",
+    "text": "גוּ"
+  },
+  "gimel-shvaNa": {
+    "file": "8f5aaf0ba0344e7c.mp3",
+    "text": "גֵה",
+    "rate": "+100%"
+  },
+  "gimel-tzere": {
+    "file": "779c8a16c272c820.mp3",
+    "text": "גֵה"
+  },
+  "he-hirik": {
+    "file": "b094665550adfbad.mp3",
+    "text": "הִה"
+  },
+  "he-hirikMale": {
+    "file": "e0f55ecb1999627c.mp3",
+    "text": "הִי"
+  },
+  "he-holam": {
+    "file": "0420203a1c49184e.mp3",
+    "text": "הוֹ"
+  },
+  "he-holamMale": {
+    "file": "0420203a1c49184e.mp3",
+    "text": "הוֹ"
+  },
+  "he-kamatz": {
+    "file": "837070bc298053da.mp3",
+    "text": "הָה"
+  },
+  "he-kubutz": {
+    "file": "bf118c9195c068e1.mp3",
+    "text": "הוּ"
+  },
+  "he-patach": {
+    "file": "e55096393b525b99.mp3",
+    "text": "הַה"
+  },
+  "he-segol": {
+    "file": "04cfe0f7a7975ac6.mp3",
+    "text": "הֶה"
+  },
+  "he-shuruk": {
+    "file": "bf118c9195c068e1.mp3",
+    "text": "הוּ"
+  },
+  "he-shvaNa": {
+    "file": "e16017b05ed903b6.mp3",
+    "text": "הֵה",
+    "rate": "+100%"
+  },
+  "he-tzere": {
+    "file": "9b6af27df9e76089.mp3",
+    "text": "הֵה"
+  },
+  "het-hirik": {
+    "file": "806c1c43e23ac9e6.mp3",
+    "text": "חִה"
+  },
+  "het-hirikMale": {
+    "file": "4d4d5287e96dbf5c.mp3",
+    "text": "חִי"
+  },
+  "het-holam": {
+    "file": "47530f63ada5c2fd.mp3",
+    "text": "חוֹ"
+  },
+  "het-holamMale": {
+    "file": "47530f63ada5c2fd.mp3",
+    "text": "חוֹ"
+  },
+  "het-kamatz": {
+    "file": "dd2656e9902b476d.mp3",
+    "text": "חָה"
+  },
+  "het-kubutz": {
+    "file": "7acf1b7a8dc602a3.mp3",
+    "text": "חוּ"
+  },
+  "het-patach": {
+    "file": "021a9d658271dc1a.mp3",
+    "text": "חַה"
+  },
+  "het-segol": {
+    "file": "dad676c4c1ea7226.mp3",
+    "text": "חֶה"
+  },
+  "het-shuruk": {
+    "file": "7acf1b7a8dc602a3.mp3",
+    "text": "חוּ"
+  },
+  "het-shvaNa": {
+    "file": "7aaade6fc9f22d10.mp3",
+    "text": "חֵה",
+    "rate": "+100%"
+  },
+  "het-tzere": {
+    "file": "ccb50a66fec35cc9.mp3",
+    "text": "חֵה"
+  },
+  "kaf-hirik": {
+    "file": "09c5df3ea3ed641e.mp3",
+    "text": "כִּה"
+  },
+  "kaf-hirikMale": {
+    "file": "4228287e700faa00.mp3",
+    "text": "כִּי"
+  },
+  "kaf-holam": {
+    "file": "3f361a51b5c9bef8.mp3",
+    "text": "כּוֹ"
+  },
+  "kaf-holamMale": {
+    "file": "3f361a51b5c9bef8.mp3",
+    "text": "כּוֹ"
+  },
+  "kaf-kamatz": {
+    "file": "4f6bc8132a054318.mp3",
+    "text": "כָּה"
+  },
+  "kaf-kubutz": {
+    "file": "5d503e2e1d3683f9.mp3",
+    "text": "כּוּ"
+  },
+  "kaf-patach": {
+    "file": "9431daa95a808517.mp3",
+    "text": "כַּה"
+  },
+  "kaf-segol": {
+    "file": "1ade8a7bfcbb3df5.mp3",
+    "text": "כֶּה"
+  },
+  "kaf-shuruk": {
+    "file": "5d503e2e1d3683f9.mp3",
+    "text": "כּוּ"
+  },
+  "kaf-shvaNa": {
+    "file": "1032bf1190f872bd.mp3",
+    "text": "כֵּה",
+    "rate": "+100%"
+  },
+  "kaf-tzere": {
+    "file": "97a9e02d26009a57.mp3",
+    "text": "כֵּה"
+  },
+  "khaf-hirik": {
+    "file": "a4b0bba23f4ab202.mp3",
+    "text": "כִה"
+  },
+  "khaf-hirikMale": {
+    "file": "31ba8b10dac34323.mp3",
+    "text": "כִי"
+  },
+  "khaf-holam": {
+    "file": "47530f63ada5c2fd.mp3",
+    "text": "חוֹ"
+  },
+  "khaf-holamMale": {
+    "file": "47530f63ada5c2fd.mp3",
+    "text": "חוֹ"
+  },
+  "khaf-kamatz": {
+    "file": "b15f092d8bb6131b.mp3",
+    "text": "כָה"
+  },
+  "khaf-kubutz": {
+    "file": "7acf1b7a8dc602a3.mp3",
+    "text": "חוּ"
+  },
+  "khaf-patach": {
+    "file": "7f0aadbeab1ca5f4.mp3",
+    "text": "כַה"
+  },
+  "khaf-segol": {
+    "file": "085429491f6671b8.mp3",
+    "text": "כֶה"
+  },
+  "khaf-shuruk": {
+    "file": "7acf1b7a8dc602a3.mp3",
+    "text": "חוּ"
+  },
+  "khaf-shvaNa": {
+    "file": "42af230a77fb85d7.mp3",
+    "text": "כֵה",
+    "rate": "+100%"
+  },
+  "khaf-tzere": {
+    "file": "441d62831fbb7a78.mp3",
+    "text": "כֵה"
+  },
+  "l8-adama": {
+    "file": "2493053863d90eb8.mp3",
+    "text": "אֲדָמָה"
+  },
+  "l8-aduma": {
+    "file": "f523fdc24ce782ee.mp3",
+    "text": "אֲדֻמָּה"
+  },
+  "l8-agvania": {
+    "file": "b1dc6d534df0f8d1.mp3",
+    "text": "עַגְבָנִיָּה"
+  },
+  "l8-anachnu": {
+    "file": "2bfd351053aa8386.mp3",
+    "text": "אֲנַחְנוּ"
+  },
+  "l8-ananim": {
+    "file": "83705fb70c67187f.mp3",
+    "text": "עֲנָנִים"
+  },
+  "l8-anashim": {
+    "file": "47859705eb598a94.mp3",
+    "text": "אֲנָשִׁים"
+  },
+  "l8-aronot": {
+    "file": "b3ed3190903cd597.mp3",
+    "text": "אֲרוֹנוֹת"
+  },
+  "l8-arucha": {
+    "file": "a8e1683e3364ce9b.mp3",
+    "text": "אֲרוּחָה"
+  },
+  "l8-avoda": {
+    "file": "dbb4f0f8e51297ad.mp3",
+    "text": "עֲבוֹדָה"
+  },
+  "l8-balonim": {
+    "file": "f808becc1b6957f2.mp3",
+    "text": "בַּלּוֹנִים"
+  },
+  "l8-banana": {
+    "file": "5e8d915d6ac14ced.mp3",
+    "text": "בָּנָנָה"
+  },
+  "l8-bevakasha": {
+    "file": "c94d2a0f48b66a99.mp3",
+    "text": "בְּבַקָּשָׁה"
+  },
+  "l8-chachama": {
+    "file": "071f9774b06ea3ed.mp3",
+    "text": "חֲכָמָה"
+  },
+  "l8-chadasha": {
+    "file": "bd918301f09b36a7.mp3",
+    "text": "חֲדָשָׁה"
+  },
+  "l8-chalonot": {
+    "file": "af5dcfb1021267a2.mp3",
+    "text": "חַלּוֹנוֹת"
+  },
+  "l8-chaverim": {
+    "file": "5ce0d05b1cd43f10.mp3",
+    "text": "חֲבֵרִים"
+  },
+  "l8-garbayim": {
+    "file": "18406b08a95913af.mp3",
+    "text": "גַּרְבַּיִם"
+  },
+  "l8-gdola": {
+    "file": "80bfc1b6d4311007.mp3",
+    "text": "גְּדוֹלָה"
+  },
+  "l8-gvina": {
+    "file": "67a4b2e8ecc09795.mp3",
+    "text": "גְּבִינָה"
+  },
+  "l8-iparon": {
+    "file": "4597a96433b73f8e.mp3",
+    "text": "עִפָּרוֹן"
+  },
+  "l8-kaduregel": {
+    "file": "90c90b17844a3a54.mp3",
+    "text": "כַּדּוּרֶגֶל"
+  },
+  "l8-kadursal": {
+    "file": "48738aace6fcd598.mp3",
+    "text": "כַּדּוּרְסַל"
+  },
+  "l8-kartisim": {
+    "file": "d1918f32dbcad546.mp3",
+    "text": "כַּרְטִיסִים"
+  },
+  "l8-kchula": {
+    "file": "117d629333bb22dd.mp3",
+    "text": "כְּחֻלָּה"
+  },
+  "l8-kenguru": {
+    "file": "5882cde657c8be42.mp3",
+    "text": "קֶנְגּוּרוּ"
+  },
+  "l8-ketana": {
+    "file": "319011f171621703.mp3",
+    "text": "קְטַנָּה"
+  },
+  "l8-kochavim": {
+    "file": "afd103e043a8564f.mp3",
+    "text": "כּוֹכָבִים"
+  },
+  "l8-kovaim": {
+    "file": "3e615f4c12c8bc0f.mp3",
+    "text": "כּוֹבָעִים"
+  },
+  "l8-ktuma": {
+    "file": "cbfeed9e5b925c53.mp3",
+    "text": "כְּתֻמָּה"
+  },
+  "l8-machberet": {
+    "file": "a485dc43e678c1ba.mp3",
+    "text": "מַחְבֶּרֶת"
+  },
+  "l8-maftechot": {
+    "file": "b736d55492cb23c6.mp3",
+    "text": "מַפְתְּחוֹת"
+  },
+  "l8-magevet": {
+    "file": "723c637b232d88c9.mp3",
+    "text": "מַגֶּבֶת"
+  },
+  "l8-maglesha": {
+    "file": "6a2185d322cb7ba1.mp3",
+    "text": "מַגְלֵשָׁה"
+  },
+  "l8-matana": {
+    "file": "f4e65d4af9ac782c.mp3",
+    "text": "מַתָּנָה"
+  },
+  "l8-mechonit": {
+    "file": "3658361d5a87521d.mp3",
+    "text": "מְכוֹנִית"
+  },
+  "l8-mehira": {
+    "file": "dc96e7170e060461.mp3",
+    "text": "מְהִירָה"
+  },
+  "l8-melafefon": {
+    "file": "690d22829242411c.mp3",
+    "text": "מְלָפְפוֹן"
+  },
+  "l8-menora": {
+    "file": "17a26e8a735c7024.mp3",
+    "text": "מְנוֹרָה"
+  },
+  "l8-mesiba": {
+    "file": "16a764a3cb37a3f9.mp3",
+    "text": "מְסִבָּה"
+  },
+  "l8-michnasayim": {
+    "file": "5531e33997dd0037.mp3",
+    "text": "מִכְנָסַיִם"
+  },
+  "l8-miklachat": {
+    "file": "642f089421debcad.mp3",
+    "text": "מִקְלַחַת"
+  },
+  "l8-misada": {
+    "file": "b40255b248841896.mp3",
+    "text": "מִסְעָדָה"
+  },
+  "l8-mischakim": {
+    "file": "b1195c9a83b47410.mp3",
+    "text": "מִשְׂחָקִים"
+  },
+  "l8-mishkafayim": {
+    "file": "2f2239280e623c8a.mp3",
+    "text": "מִשְׁקָפַיִם"
+  },
+  "l8-mishpacha": {
+    "file": "70a459ced47c01cd.mp3",
+    "text": "מִשְׁפָּחָה"
+  },
+  "l8-mishpatim": {
+    "file": "76109e6ae837aeff.mp3",
+    "text": "מִשְׁפָּטִים"
+  },
+  "l8-misparayim": {
+    "file": "de4e4bd7bbb255e9.mp3",
+    "text": "מִסְפָּרַיִם"
+  },
+  "l8-mivreshet": {
+    "file": "3bd77dc07f3403fe.mp3",
+    "text": "מִבְרֶשֶׁת"
+  },
+  "l8-naalayim": {
+    "file": "7f1ac282fd1384d5.mp3",
+    "text": "נַעֲלַיִם"
+  },
+  "l8-nadneda": {
+    "file": "c15c8ee61153a122.mp3",
+    "text": "נַדְנֵדָה"
+  },
+  "l8-nemala": {
+    "file": "009249e6cdae2865.mp3",
+    "text": "נְמָלָה"
+  },
+  "l8-ofanayim": {
+    "file": "108322a95fdf7a45.mp3",
+    "text": "אוֹפַנַּיִם"
+  },
+  "l8-perachim": {
+    "file": "2395c96727c815a9.mp3",
+    "text": "פְּרָחִים"
+  },
+  "l8-rakevet": {
+    "file": "0f266d7e6c98f048.mp3",
+    "text": "רַכֶּבֶת"
+  },
+  "l8-sfina": {
+    "file": "947bdba1ec24990b.mp3",
+    "text": "סְפִינָה"
+  },
+  "l8-shamayim": {
+    "file": "8ddd0414b4a75ffd.mp3",
+    "text": "שָׁמַיִם"
+  },
+  "l8-shchora": {
+    "file": "521fbf42b24fb8c5.mp3",
+    "text": "שְׁחוֹרָה"
+  },
+  "l8-shiurim": {
+    "file": "bcb70bd7d488c736.mp3",
+    "text": "שִׁעוּרִים"
+  },
+  "l8-shokolad": {
+    "file": "56f7b52e20d4cda8.mp3",
+    "text": "שׁוֹקוֹלָד"
+  },
+  "l8-sifriya": {
+    "file": "331017d121beb778.mp3",
+    "text": "סִפְרִיָּה"
+  },
+  "l8-sipurim": {
+    "file": "12d0e20257f0bc27.mp3",
+    "text": "סִפּוּרִים"
+  },
+  "l8-smecha": {
+    "file": "457fd7867bb642ce.mp3",
+    "text": "שְׂמֵחָה"
+  },
+  "l8-smicha": {
+    "file": "e86f82f736ffef1f.mp3",
+    "text": "שְׂמִיכָה"
+  },
+  "l8-snai": {
+    "file": "98b52f780735d38c.mp3",
+    "text": "סְנָאִי"
+  },
+  "l8-sukariya": {
+    "file": "e60a6e9ba49c9268.mp3",
+    "text": "סֻכָּרִיָּה"
+  },
+  "l8-talmidim": {
+    "file": "f2283c1ce9c74e67.mp3",
+    "text": "תַּלְמִידִים"
+  },
+  "l8-tapuach": {
+    "file": "3fb1a14fcd91e141.mp3",
+    "text": "תַּפּוּחַ"
+  },
+  "l8-tarnegol": {
+    "file": "06c985d6a59a3efa.mp3",
+    "text": "תַּרְנְגוֹל"
+  },
+  "l8-tarnegolet": {
+    "file": "6e29143f0ac37273.mp3",
+    "text": "תַּרְנְגֹלֶת"
+  },
+  "l8-telefon": {
+    "file": "450871ecd4a6f64d.mp3",
+    "text": "טֶלֶפוֹן"
+  },
+  "l8-tinoket": {
+    "file": "25eeeb08d127227e.mp3",
+    "text": "תִּינוֹקֶת"
+  },
+  "l8-tsatsua": {
+    "file": "f6259d8183ecd65d.mp3",
+    "text": "צַעֲצוּעַ"
+  },
+  "l8-tsehuba": {
+    "file": "86936868236c4178.mp3",
+    "text": "צְהֻבָּה"
+  },
+  "l8-ugiya": {
+    "file": "636b1cc47fd720b9.mp3",
+    "text": "עוּגִיָּה"
+  },
+  "l8-yeladim": {
+    "file": "06e022758829c653.mp3",
+    "text": "יְלָדִים"
+  },
+  "l8-yeladot": {
+    "file": "42a735d508e8531d.mp3",
+    "text": "יְלָדוֹת"
+  },
+  "l8-yerakot": {
+    "file": "20ac68107092f8e1.mp3",
+    "text": "יְרָקוֹת"
+  },
+  "l8-yeruka": {
+    "file": "c9721ca2e066b197.mp3",
+    "text": "יְרֻקָּה"
+  },
+  "l8-yerushalayim": {
+    "file": "f554b4b900fe5a01.mp3",
+    "text": "יְרוּשָׁלַיִם"
+  },
+  "l8-yeshana": {
+    "file": "a65cbb2cdf0c5c8e.mp3",
+    "text": "יְשָׁנָה"
+  },
+  "lamed-hirik": {
+    "file": "0d80e158fbb9f3d0.mp3",
+    "text": "לִה"
+  },
+  "lamed-hirikMale": {
+    "file": "e5cbd86e84010d80.mp3",
+    "text": "לִי"
+  },
+  "lamed-holam": {
+    "file": "e017cccf981e7d4f.mp3",
+    "text": "לוֹ"
+  },
+  "lamed-holamMale": {
+    "file": "e017cccf981e7d4f.mp3",
+    "text": "לוֹ"
+  },
+  "lamed-kamatz": {
+    "file": "b13303aaa47651bc.mp3",
+    "text": "לָה"
+  },
+  "lamed-kubutz": {
+    "file": "d169127a3e8d7c4e.mp3",
+    "text": "לוּ"
+  },
+  "lamed-patach": {
+    "file": "23b0af782f389e4f.mp3",
+    "text": "לַה"
+  },
+  "lamed-segol": {
+    "file": "38970453a09d47dd.mp3",
+    "text": "לֶה"
+  },
+  "lamed-shuruk": {
+    "file": "d169127a3e8d7c4e.mp3",
+    "text": "לוּ"
+  },
+  "lamed-shvaNa": {
+    "file": "e522914d3840c206.mp3",
+    "text": "לֵה",
+    "rate": "+100%"
+  },
+  "lamed-tzere": {
+    "file": "b69c2267fa4dc3e0.mp3",
+    "text": "לֵה"
+  },
+  "mem-hirik": {
+    "file": "5129511a3f43c7a1.mp3",
+    "text": "מִה"
+  },
+  "mem-hirikMale": {
+    "file": "6395382093d8f680.mp3",
+    "text": "מִי"
+  },
+  "mem-holam": {
+    "file": "084a2e6f290a0425.mp3",
+    "text": "מוֹ"
+  },
+  "mem-holamMale": {
+    "file": "084a2e6f290a0425.mp3",
+    "text": "מוֹ"
+  },
+  "mem-kamatz": {
+    "file": "2a788e8f10c4c15d.mp3",
+    "text": "מָה"
+  },
+  "mem-kubutz": {
+    "file": "0108adde25dbd288.mp3",
+    "text": "מוּ"
+  },
+  "mem-patach": {
+    "file": "a05298d6b5b9b89d.mp3",
+    "text": "מַה"
+  },
+  "mem-segol": {
+    "file": "ab504d7c240c7ded.mp3",
+    "text": "מֶה"
+  },
+  "mem-shuruk": {
+    "file": "0108adde25dbd288.mp3",
+    "text": "מוּ"
+  },
+  "mem-shvaNa": {
+    "file": "d7a2ef1be02cb55f.mp3",
+    "text": "מֵה",
+    "rate": "+100%"
+  },
+  "mem-tzere": {
+    "file": "1eaac117ad55a210.mp3",
+    "text": "מֵה"
+  },
+  "nun-hirik": {
+    "file": "38cf6b5389812641.mp3",
+    "text": "נִה"
+  },
+  "nun-hirikMale": {
+    "file": "f8975910bd13c169.mp3",
+    "text": "נִי"
+  },
+  "nun-holam": {
+    "file": "db49b77b2d9a70cb.mp3",
+    "text": "נוֹ"
+  },
+  "nun-holamMale": {
+    "file": "db49b77b2d9a70cb.mp3",
+    "text": "נוֹ"
+  },
+  "nun-kamatz": {
+    "file": "1f293bbaffe89c27.mp3",
+    "text": "נָה"
+  },
+  "nun-kubutz": {
+    "file": "ead5cd563e433b22.mp3",
+    "text": "נוּ"
+  },
+  "nun-patach": {
+    "file": "ea67d1b369f604b1.mp3",
+    "text": "נַה"
+  },
+  "nun-segol": {
+    "file": "2cb53df25096f58a.mp3",
+    "text": "נֶה"
+  },
+  "nun-shuruk": {
+    "file": "ead5cd563e433b22.mp3",
+    "text": "נוּ"
+  },
+  "nun-shvaNa": {
+    "file": "40653e6c27603bf3.mp3",
+    "text": "נֵה",
+    "rate": "+100%"
+  },
+  "nun-tzere": {
+    "file": "5e6b74b79e417614.mp3",
+    "text": "נֵה"
+  },
+  "p11-cat::q0": {
+    "file": "c238ad11cbf66dcf.mp3",
+    "text": "מָה עוֹשֶׂה הֶחָתוּל בַּלַּיְלָה?"
+  },
+  "p11-cat::q0opt0": {
+    "file": "bedb6a4439bd0fd7.mp3",
+    "text": "צָד עַכְבָּרִים"
+  },
+  "p11-cat::q0opt1": {
+    "file": "8cd962546403ce4d.mp3",
+    "text": "יָשֵׁן"
+  },
+  "p11-cat::q0opt2": {
+    "file": "6cb397b06d659d32.mp3",
+    "text": "אוֹכֵל עוּגָה"
+  },
+  "p11-cat::s0": {
+    "file": "8f3b20eb0b018354.mp3",
+    "text": "לַשְּׁכֵנָה שֶׁלָּנוּ יֵשׁ חָתוּל לָבָן."
+  },
+  "p11-cat::s1": {
+    "file": "b6701bb2e1d5a58a.mp3",
+    "text": "הוּא יוֹשֵׁב כָּל הַיּוֹם בַּחַלּוֹן."
+  },
+  "p11-cat::s2": {
+    "file": "af89331203d4ebf0.mp3",
+    "text": "בַּלַּיְלָה הוּא צָד עַכְבָּרִים."
+  },
+  "p11-dog::q0": {
+    "file": "eb675138cad46b0a.mp3",
+    "text": "בְּמָה אוֹהֵב הַכֶּלֶב לְשַׂחֵק?"
+  },
+  "p11-dog::s0": {
+    "file": "e2ac6847cdfa0982.mp3",
+    "text": "יֵשׁ לִי כֶּלֶב קָטָן וְחָמוּד."
+  },
+  "p11-dog::s1": {
+    "file": "8d815739bc0e1c2e.mp3",
+    "text": "הוּא אוֹהֵב לְשַׂחֵק בַּכַּדּוּר."
+  },
+  "p11-dog::s2": {
+    "file": "cb69cec772d6c282.mp3",
+    "text": "כָּל בֹּקֶר אֲנַחְנוּ רָצִים בַּגַּן."
+  },
+  "p11-family::q0": {
+    "file": "0899dcf0db672394.mp3",
+    "text": "כַּמָּה אֲנָשִׁים בַּמִּשְׁפָּחָה?"
+  },
+  "p11-family::q0opt0": {
+    "file": "444250b3a332b436.mp3",
+    "text": "אַרְבָּעָה"
+  },
+  "p11-family::q0opt1": {
+    "file": "baead7134004d058.mp3",
+    "text": "שְׁנַיִם"
+  },
+  "p11-family::q0opt2": {
+    "file": "b1f6b2b11721aa3b.mp3",
+    "text": "עֲשָׂרָה"
+  },
+  "p11-family::s0": {
+    "file": "610f03864ac1cad2.mp3",
+    "text": "בַּמִּשְׁפָּחָה שֶׁלִּי יֵשׁ אַרְבָּעָה אֲנָשִׁים."
+  },
+  "p11-family::s1": {
+    "file": "a67110ddc5dbe6e6.mp3",
+    "text": "אַבָּא, אִמָּא, אָחִי וַאֲנִי."
+  },
+  "p11-family::s2": {
+    "file": "1899e86c404375f2.mp3",
+    "text": "אֲנַחְנוּ אוֹהֲבִים לֶאֱכֹל יַחַד."
+  },
+  "p11-football::q0": {
+    "file": "e1ae94ba1ef54b06.mp3",
+    "text": "מָתַי הַמִּשְׂחָק?"
+  },
+  "p11-football::q0opt0": {
+    "file": "1950aad8fbaf442f.mp3",
+    "text": "בְּיוֹם שִׁשִּׁי"
+  },
+  "p11-football::q0opt1": {
+    "file": "56ddb9bc04855ebb.mp3",
+    "text": "בַּלַּיְלָה"
+  },
+  "p11-football::q0opt2": {
+    "file": "ffdee2b1bbbcfacc.mp3",
+    "text": "בַּקַּיִץ"
+  },
+  "p11-football::s0": {
+    "file": "2febe711159dde1b.mp3",
+    "text": "אֲנִי אוֹהֵב לְשַׂחֵק כַּדּוּרֶגֶל."
+  },
+  "p11-football::s1": {
+    "file": "a715e65fd116314e.mp3",
+    "text": "בְּיוֹם שִׁשִּׁי יֵשׁ לָנוּ מִשְׂחָק."
+  },
+  "p11-football::s2": {
+    "file": "e8268ced613554c5.mp3",
+    "text": "הַקְּבוּצָה שֶׁלִּי חֲזָקָה מְאֹד."
+  },
+  "p11-garden::q0": {
+    "file": "5d5cf1d12fec514c.mp3",
+    "text": "מִי מַשְׁקֶה אֶת הַפְּרָחִים?"
+  },
+  "p11-garden::q0opt0": {
+    "file": "6e39ad530e22ca37.mp3",
+    "text": "סַבָּא"
+  },
+  "p11-garden::q0opt1": {
+    "file": "47e6c081ea2b74b7.mp3",
+    "text": "הַיֶּלֶד"
+  },
+  "p11-garden::q0opt2": {
+    "file": "9c5988de1a1d7e88.mp3",
+    "text": "הַמּוֹרָה"
+  },
+  "p11-garden::s0": {
+    "file": "c39b451ef6fff793.mp3",
+    "text": "בַּגִּנָּה שֶׁלָּנוּ יֵשׁ פְּרָחִים יָפִים."
+  },
+  "p11-garden::s1": {
+    "file": "f93c039deb5f521b.mp3",
+    "text": "סַבָּא מַשְׁקֶה אוֹתָם כָּל בֹּקֶר."
+  },
+  "p11-garden::s2": {
+    "file": "fc4fee1eb98646c3.mp3",
+    "text": "הַפְּרָחִים אֲדֻמִּים וּצְהֻבִּים."
+  },
+  "p11-sea::q0": {
+    "file": "5bb1cf5df4785e24.mp3",
+    "text": "מָה בָּנִינוּ בַּיָּם?"
+  },
+  "p11-sea::q0opt0": {
+    "file": "790b8ef3878c3556.mp3",
+    "text": "אַרְמוֹן"
+  },
+  "p11-sea::q0opt1": {
+    "file": "798ada46d5e85fb3.mp3",
+    "text": "גֶּשֶׁר"
+  },
+  "p11-sea::q0opt2": {
+    "file": "b3910fb29e9b4e6a.mp3",
+    "text": "בַּיִת"
+  },
+  "p11-sea::s0": {
+    "file": "fce092c2b2cc2571.mp3",
+    "text": "הַיּוֹם הָלַכְנוּ לַיָּם."
+  },
+  "p11-sea::s1": {
+    "file": "4333ddf4ea552fd6.mp3",
+    "text": "הַמַּיִם הָיוּ כְּחֻלִּים וְקָרִים."
+  },
+  "p11-sea::s2": {
+    "file": "36d16deb4084f68e.mp3",
+    "text": "בָּנִינוּ אַרְמוֹן גָּדוֹל מֵחוֹל."
+  },
+  "p12-beach::q0": {
+    "file": "643fa30816fbaa64.mp3",
+    "text": "לְאָן נָסְעָה הַמִּשְׁפָּחָה?"
+  },
+  "p12-beach::q0opt0": {
+    "file": "f62602344103d876.mp3",
+    "text": "לַחוֹף"
+  },
+  "p12-beach::q0opt1": {
+    "file": "e07b1aef1d98bbab.mp3",
+    "text": "לַגַּן"
+  },
+  "p12-beach::q0opt2": {
+    "file": "a704249d81a8655b.mp3",
+    "text": "לְבֵית הַסֵּפֶר"
+  },
+  "p12-beach::q1": {
+    "file": "4f165195aeeea8c4.mp3",
+    "text": "אֵיךְ חָזְרוּ הַבַּיְתָה?"
+  },
+  "p12-beach::q1opt0": {
+    "file": "042dabcded2cae86.mp3",
+    "text": "שְׂמֵחִים"
+  },
+  "p12-beach::q1opt1": {
+    "file": "b14aee32d2e54527.mp3",
+    "text": "עֲצוּבִים"
+  },
+  "p12-beach::q1opt2": {
+    "file": "fa10f0c8f57b7ead.mp3",
+    "text": "רְעֵבִים"
+  },
+  "p12-beach::s0": {
+    "file": "a1cfa3e951a1c74a.mp3",
+    "text": "בַּקַּיִץ נָסַעְנוּ עִם כָּל הַמִּשְׁפָּחָה לַחוֹף הַגָּדוֹל."
+  },
+  "p12-beach::s1": {
+    "file": "dae3835e225b39eb.mp3",
+    "text": "הַשֶּׁמֶשׁ זָרְחָה בַּשָּׁמַיִם וְהַיָּם הָיָה כָּחֹל וְשָׁקֵט."
+  },
+  "p12-beach::s2": {
+    "file": "110b507eac2b4df3.mp3",
+    "text": "שִׂחַקְנוּ בַּחוֹל הַחַם וּבָנִינוּ אַרְמוֹן גָּדוֹל עִם מִגְדָּלִים."
+  },
+  "p12-beach::s3": {
+    "file": "bc2a3f539a6592d2.mp3",
+    "text": "אַבָּא לִמֵּד אוֹתִי לִשְׂחוֹת בַּגַּלִּים הַקְּטַנִּים."
+  },
+  "p12-beach::s4": {
+    "file": "1e04781571934af3.mp3",
+    "text": "אַחַר כָּךְ אָכַלְנוּ אֲרוּחָה טְעִימָה עַל שְׂמִיכָה גְּדוֹלָה."
+  },
+  "p12-beach::s5": {
+    "file": "031e8ff226b25f9f.mp3",
+    "text": "בָּעֶרֶב חָזַרְנוּ הַבַּיְתָה שְׂמֵחִים וַעֲיֵפִים."
+  },
+  "p12-dog::q0": {
+    "file": "b4818da8c9ba2683.mp3",
+    "text": "מָה שֵׁם הַכַּלְבָּה?"
+  },
+  "p12-dog::q0opt0": {
+    "file": "3f76bb3c930753c7.mp3",
+    "text": "נֶסִי"
+  },
+  "p12-dog::q0opt1": {
+    "file": "17e4907c1b1aad05.mp3",
+    "text": "לוּנָה"
+  },
+  "p12-dog::q0opt2": {
+    "file": "6bfbe453a62fed12.mp3",
+    "text": "רֶקְס"
+  },
+  "p12-dog::q1": {
+    "file": "e84c95fb0a784945.mp3",
+    "text": "לְאָן הֵם יוֹצְאִים יַחַד?"
+  },
+  "p12-dog::q1opt0": {
+    "file": "36fdc5b90684b61f.mp3",
+    "text": "לַפַּרְק"
+  },
+  "p12-dog::q1opt1": {
+    "file": "d49c2e99a5144459.mp3",
+    "text": "לַיָּם"
+  },
+  "p12-dog::q1opt2": {
+    "file": "d022eaca90c98068.mp3",
+    "text": "לַחֲנוּת"
+  },
+  "p12-dog::s0": {
+    "file": "ac93a5af712ee32c.mp3",
+    "text": "יֵשׁ לָנוּ כַּלְבָּה בְּשֵׁם נֶסִי."
+  },
+  "p12-dog::s1": {
+    "file": "fc75d8a660184cd3.mp3",
+    "text": "הִיא חוּמָה וּקְטַנָּה וְיֵשׁ לָהּ אָזְנַיִם אֲרֻכּוֹת וְרַכּוֹת."
+  },
+  "p12-dog::s2": {
+    "file": "f0b6e5b5b8295b71.mp3",
+    "text": "כָּל בֹּקֶר הִיא קוֹפֶצֶת עַל הַמִּטָּה וּמְעִירָה אוֹתִי."
+  },
+  "p12-dog::s3": {
+    "file": "cb5003f591c9b48e.mp3",
+    "text": "אֲנַחְנוּ יוֹצְאִים יַחַד כָּל יוֹם לְטִיּוּל אָרֹךְ בַּפַּרְק."
+  },
+  "p12-dog::s4": {
+    "file": "502f182fa65ac695.mp3",
+    "text": "נֶסִי אוֹהֶבֶת לָרוּץ אַחֲרֵי הַכַּדּוּר וּלְהָבִיא אוֹתוֹ."
+  },
+  "p12-dog::s5": {
+    "file": "eba5664ce5d09894.mp3",
+    "text": "נֶסִי הִיא הֶחָבֵרָה הֲכִי טוֹבָה שֶׁלִּי."
+  },
+  "p12-garden::q0": {
+    "file": "3fb38c56b5079a96.mp3",
+    "text": "מָה גָּדֵל בַּגִּנָּה?"
+  },
+  "p12-garden::q0opt0": {
+    "file": "20ac68107092f8e1.mp3",
+    "text": "יְרָקוֹת"
+  },
+  "p12-garden::q0opt1": {
+    "file": "7d99479b9f025fd2.mp3",
+    "text": "פְּרָחִים בִּלְבַד"
+  },
+  "p12-garden::q0opt2": {
+    "file": "238a43468b0aa00d.mp3",
+    "text": "עֵצִים גְּבוֹהִים"
+  },
+  "p12-garden::q1": {
+    "file": "30780a0bd896a80e.mp3",
+    "text": "מָתַי הַיֶּלֶד עוֹזֵר?"
+  },
+  "p12-garden::q1opt0": {
+    "file": "444dffd077bc2de5.mp3",
+    "text": "בְּשַׁבָּת"
+  },
+  "p12-garden::q1opt1": {
+    "file": "56ddb9bc04855ebb.mp3",
+    "text": "בַּלַּיְלָה"
+  },
+  "p12-garden::q1opt2": {
+    "file": "1a4506bb5cca1e23.mp3",
+    "text": "אַף פַּעַם"
+  },
+  "p12-garden::s0": {
+    "file": "249309f07785c6cd.mp3",
+    "text": "לְסַבְתָּא שֶׁלִּי יֵשׁ גִּנָּה יְרֻקָּה וּגְדוֹלָה מֵאֲחוֹרֵי הַבַּיִת."
+  },
+  "p12-garden::s1": {
+    "file": "3af0524f42612a01.mp3",
+    "text": "בַּגִּנָּה גְּדֵלִים עַגְבָנִיּוֹת אֲדֻמּוֹת וּמְלָפְפוֹנִים יְרֻקִּים."
+  },
+  "p12-garden::s2": {
+    "file": "c7a51a7e6e7c7a01.mp3",
+    "text": "כָּל שַׁבָּת בַּבֹּקֶר אֲנִי בָּא לַעֲזֹר לָהּ."
+  },
+  "p12-garden::s3": {
+    "file": "7ebd867dcb461986.mp3",
+    "text": "אֲנַחְנוּ מַשְׁקִים אֶת הַצְּמָחִים וְאוֹסְפִים יְרָקוֹת טְרִיִּים."
+  },
+  "p12-garden::s4": {
+    "file": "ffeea3b33766794e.mp3",
+    "text": "סַבְתָּא מְלַמֶּדֶת אוֹתִי אֵיךְ לִשְׁתּוֹל פְּרָחִים."
+  },
+  "p12-garden::s5": {
+    "file": "64793504280188d0.mp3",
+    "text": "אַחַר כָּךְ אֲנַחְנוּ אוֹכְלִים סָלָט טָעִים בְּיַחַד."
+  },
+  "p12-match::q0": {
+    "file": "21a2386a1c83c521.mp3",
+    "text": "מָה קָרָה בַּדַּקָּה הָאַחֲרוֹנָה?"
+  },
+  "p12-match::q0opt0": {
+    "file": "0003ac6cba4c6b17.mp3",
+    "text": "הַיֶּלֶד הִבְקִיעַ שַׁעַר"
+  },
+  "p12-match::q0opt1": {
+    "file": "0a85986135d21f2e.mp3",
+    "text": "הַיֶּלֶד נָפַל"
+  },
+  "p12-match::q0opt2": {
+    "file": "c1b96f9dbd5d585f.mp3",
+    "text": "הַמִּשְׂחָק נִגְמַר"
+  },
+  "p12-match::q1": {
+    "file": "e0d30a81449bb67b.mp3",
+    "text": "אֵיזוֹ קְבוּצָה נִצְּחָה?"
+  },
+  "p12-match::q1opt0": {
+    "file": "b93d9bc3914ef1e6.mp3",
+    "text": "הַקְּבוּצָה שֶׁלִּי"
+  },
+  "p12-match::q1opt1": {
+    "file": "1c81a07e4b3eeb1f.mp3",
+    "text": "הַקְּבוּצָה הַשְּׁנִיָּה"
+  },
+  "p12-match::q1opt2": {
+    "file": "c90314af128233d5.mp3",
+    "text": "אַף קְבוּצָה"
+  },
+  "p12-match::s0": {
+    "file": "bc78bdd7dcf1f491.mp3",
+    "text": "אֶתְמוֹל הָיָה לָנוּ מִשְׂחָק כַּדּוּרֶגֶל חָשׁוּב מְאֹד."
+  },
+  "p12-match::s1": {
+    "file": "f176edcee76f8bfd.mp3",
+    "text": "כָּל הַיְלָדִים מִבֵּית הַסֵּפֶר בָּאוּ לִרְאוֹת אֶת הַמִּשְׂחָק שֶׁלָּנוּ."
+  },
+  "p12-match::s2": {
+    "file": "7e069e8098c5d3d7.mp3",
+    "text": "בַּהַתְחָלָה הַמִּשְׂחָק הָיָה קָשֶׁה וְצָמוּד."
+  },
+  "p12-match::s3": {
+    "file": "b3320ed8658c38c6.mp3",
+    "text": "לֹא וִתַּרְנוּ, רַצְנוּ מַהֵר, מָסַרְנוּ וְשִׂחַקְנוּ יַחַד."
+  },
+  "p12-match::s4": {
+    "file": "16df38c0f7edb35f.mp3",
+    "text": "בַּדַּקָּה הָאַחֲרוֹנָה הִבְקַעְתִּי שַׁעַר נִצָּחוֹן."
+  },
+  "p12-match::s5": {
+    "file": "7940f7cef1e23860.mp3",
+    "text": "בְּסוֹף הַמִּשְׂחָק הַקְּבוּצָה שֶׁלִּי נִצְּחָה וְכֻלָּנוּ שָׂמַחְנוּ מְאֹד."
+  },
+  "p12-rain::q0": {
+    "file": "b12f8fba90d458d9.mp3",
+    "text": "מָה לָבַשׁ הַיֶּלֶד?"
+  },
+  "p12-rain::q0opt0": {
+    "file": "f47ddda40c22aa2a.mp3",
+    "text": "מְעִיל וְנַעֲלֵי גֶּשֶׁם"
+  },
+  "p12-rain::q0opt1": {
+    "file": "674abfd0a856fb72.mp3",
+    "text": "בֶּגֶד יָם"
+  },
+  "p12-rain::q0opt2": {
+    "file": "7b19063d8d28b0e6.mp3",
+    "text": "פִּיגָ'מָה"
+  },
+  "p12-rain::q1": {
+    "file": "ba3d73c7d32d7f12.mp3",
+    "text": "מָה קָרָה אַחֲרֵי הַצָּהֳרַיִם?"
+  },
+  "p12-rain::q1opt0": {
+    "file": "38c9bd2150ffb93e.mp3",
+    "text": "יָצְאָה הַשֶּׁמֶשׁ"
+  },
+  "p12-rain::q1opt1": {
+    "file": "317785e98e2be7dc.mp3",
+    "text": "יָרַד שֶׁלֶג"
+  },
+  "p12-rain::q1opt2": {
+    "file": "e8a88e7088c947fa.mp3",
+    "text": "הָיָה חֹשֶׁךְ"
+  },
+  "p12-rain::s0": {
+    "file": "e2ac1d367ee98bc9.mp3",
+    "text": "בַּבֹּקֶר הִתְעוֹרַרְתִּי וְשָׁמַעְתִּי גֶּשֶׁם חָזָק דּוֹפֵק בַּחַלּוֹן."
+  },
+  "p12-rain::s1": {
+    "file": "81e809993da868d0.mp3",
+    "text": "לָבַשְׁתִּי מְעִיל חַם וְנָעַלְתִּי נַעֲלֵי גֶּשֶׁם גְּבוֹהוֹת וִירֻקּוֹת."
+  },
+  "p12-rain::s2": {
+    "file": "616961011082b214.mp3",
+    "text": "בַּדֶּרֶךְ לְבֵית הַסֵּפֶר קָפַצְתִּי בְּתוֹךְ הַשְּׁלוּלִיּוֹת."
+  },
+  "p12-rain::s3": {
+    "file": "d116325159221445.mp3",
+    "text": "בַּכִּתָּה הַמּוֹרָה סִפְּרָה לָנוּ סִפּוּר יָפֶה עַל הַחֹרֶף."
+  },
+  "p12-rain::s4": {
+    "file": "d7a657902062802c.mp3",
+    "text": "אַחֲרֵי הַצָּהֳרַיִם הַגֶּשֶׁם נִגְמַר וְיָצְאָה הַשֶּׁמֶשׁ."
+  },
+  "p12-rain::s5": {
+    "file": "1eac0548fc24eafb.mp3",
+    "text": "בַּשָּׁמַיִם רָאִינוּ קֶשֶׁת גְּדוֹלָה וְצִבְעוֹנִית מֵעַל הַבָּתִּים."
+  },
+  "p12-zoo::q0": {
+    "file": "1efbf0f69825c0da.mp3",
+    "text": "אֵיזוֹ חַיָּה שָׁאֲגָה?"
+  },
+  "p12-zoo::q0opt0": {
+    "file": "b27710a4ed7f9e08.mp3",
+    "text": "הָאַרְיֵה"
+  },
+  "p12-zoo::q0opt1": {
+    "file": "70528e7d434dc92b.mp3",
+    "text": "הַקּוֹף"
+  },
+  "p12-zoo::q0opt2": {
+    "file": "0d619faae7401fb8.mp3",
+    "text": "הַפִּיל"
+  },
+  "p12-zoo::q1": {
+    "file": "4bdf2db556293e1a.mp3",
+    "text": "מָה עָשׂוּ הַקּוֹפִים?"
+  },
+  "p12-zoo::q1opt0": {
+    "file": "97db55eb1dbb5e5e.mp3",
+    "text": "קָפְצוּ בֵּין הָעֵצִים"
+  },
+  "p12-zoo::q1opt1": {
+    "file": "dcf890364e75fe14.mp3",
+    "text": "יָשְׁנוּ"
+  },
+  "p12-zoo::q1opt2": {
+    "file": "ee94f73390a11a71.mp3",
+    "text": "אָכְלוּ עוּגָה"
+  },
+  "p12-zoo::s0": {
+    "file": "238395e4aaa4ed0c.mp3",
+    "text": "בְּיוֹם רִאשׁוֹן הָלַכְנוּ עִם כָּל הַמִּשְׁפָּחָה לְגַן הַחַיּוֹת."
+  },
+  "p12-zoo::s1": {
+    "file": "98f7110eab125d54.mp3",
+    "text": "רָאִינוּ אַרְיֵה גָּדוֹל שֶׁשָּׁאַג בְּקוֹל רָם."
+  },
+  "p12-zoo::s2": {
+    "file": "4721d1712169a4d4.mp3",
+    "text": "הַקּוֹפִים הַקְּטַנִּים קָפְצוּ מֵעֵץ לְעֵץ וְעָשׂוּ פַּרְצוּפִים מַצְחִיקִים."
+  },
+  "p12-zoo::s3": {
+    "file": "f105ab80fca38bd5.mp3",
+    "text": "אַחַר כָּךְ הֶאֱכַלְנוּ אֶת הַפִּילִים הַגְּדוֹלִים בְּבַנָּנוֹת צְהֻבּוֹת."
+  },
+  "p12-zoo::s4": {
+    "file": "34d27f1a820995be.mp3",
+    "text": "בַּסּוֹף קָנִינוּ גְּלִידָה קָרָה וּמְתוּקָה וְיָשַׁבְנוּ עַל סַפְסָל."
+  },
+  "p12-zoo::s5": {
+    "file": "64bb4ae5f59e0e72.mp3",
+    "text": "זֶה הָיָה יוֹם נִפְלָא וּמְהַנֶּה."
+  },
+  "pe-hirik": {
+    "file": "3e1385bacfac82fc.mp3",
+    "text": "פִּה"
+  },
+  "pe-hirikMale": {
+    "file": "ccabd2ae5f0a0572.mp3",
+    "text": "פִּי"
+  },
+  "pe-holam": {
+    "file": "c6860982777dab33.mp3",
+    "text": "פּוֹ"
+  },
+  "pe-holamMale": {
+    "file": "c6860982777dab33.mp3",
+    "text": "פּוֹ"
+  },
+  "pe-kamatz": {
+    "file": "74c2c9bdd6497a94.mp3",
+    "text": "פָּה"
+  },
+  "pe-kubutz": {
+    "file": "414f9e87a730761b.mp3",
+    "text": "פּוּ"
+  },
+  "pe-patach": {
+    "file": "d14bf987f91dfc39.mp3",
+    "text": "פַּה"
+  },
+  "pe-segol": {
+    "file": "c7a072fd37c6ecfb.mp3",
+    "text": "פֶּה"
+  },
+  "pe-shuruk": {
+    "file": "414f9e87a730761b.mp3",
+    "text": "פּוּ"
+  },
+  "pe-shvaNa": {
+    "file": "64897add142f697e.mp3",
+    "text": "פֵּה",
+    "rate": "+100%"
+  },
+  "pe-tzere": {
+    "file": "f1c1da13a81cb973.mp3",
+    "text": "פֵּה"
+  },
+  "qof-hirik": {
+    "file": "0f072fabdef1aa47.mp3",
+    "text": "קִה"
+  },
+  "qof-hirikMale": {
+    "file": "9210e4badf6307b2.mp3",
+    "text": "קִי"
+  },
+  "qof-holam": {
+    "file": "3f361a51b5c9bef8.mp3",
+    "text": "כּוֹ"
+  },
+  "qof-holamMale": {
+    "file": "3f361a51b5c9bef8.mp3",
+    "text": "כּוֹ"
+  },
+  "qof-kamatz": {
+    "file": "20ac6770b3ad4cb9.mp3",
+    "text": "קָה"
+  },
+  "qof-kubutz": {
+    "file": "5d503e2e1d3683f9.mp3",
+    "text": "כּוּ"
+  },
+  "qof-patach": {
+    "file": "0f5888a473f89ec9.mp3",
+    "text": "קַה"
+  },
+  "qof-segol": {
+    "file": "79e822d3487121e9.mp3",
+    "text": "קֶה"
+  },
+  "qof-shuruk": {
+    "file": "5d503e2e1d3683f9.mp3",
+    "text": "כּוּ"
+  },
+  "qof-shvaNa": {
+    "file": "0587e7c3190c45ce.mp3",
+    "text": "קֵה",
+    "rate": "+100%"
+  },
+  "qof-tzere": {
+    "file": "1b3b13120d89333b.mp3",
+    "text": "קֵה"
+  },
+  "resh-hirik": {
+    "file": "c2d5f6c30cac7205.mp3",
+    "text": "רִה"
+  },
+  "resh-hirikMale": {
+    "file": "c89e17ee7f132cfd.mp3",
+    "text": "רִי"
+  },
+  "resh-holam": {
+    "file": "044e91e113a4072c.mp3",
+    "text": "רוֹ"
+  },
+  "resh-holamMale": {
+    "file": "044e91e113a4072c.mp3",
+    "text": "רוֹ"
+  },
+  "resh-kamatz": {
+    "file": "7be5536f33e04c66.mp3",
+    "text": "רָה"
+  },
+  "resh-kubutz": {
+    "file": "b5bdf89311985b41.mp3",
+    "text": "רוּ"
+  },
+  "resh-patach": {
+    "file": "247c55b12b96d3ca.mp3",
+    "text": "רַה"
+  },
+  "resh-segol": {
+    "file": "613059a5456800eb.mp3",
+    "text": "רֶה"
+  },
+  "resh-shuruk": {
+    "file": "b5bdf89311985b41.mp3",
+    "text": "רוּ"
+  },
+  "resh-shvaNa": {
+    "file": "957e50c1463bf254.mp3",
+    "text": "רֵה",
+    "rate": "+100%"
+  },
+  "resh-tzere": {
+    "file": "6f9d026813ad2413.mp3",
+    "text": "רֵה"
+  },
+  "s10-1": {
+    "file": "24bb060e82b3fe22.mp3",
+    "text": "הַיֶּלֶד הָלַךְ לְבֵית הַסֵּפֶר בַּבֹּקֶר."
+  },
+  "s10-10": {
+    "file": "c4890bb95db7af51.mp3",
+    "text": "מָתַי נֵלֵךְ לַיָּם? מָחָר בַּבֹּקֶר."
+  },
+  "s10-10::opt0": {
+    "file": "53b47a05b636bcb8.mp3",
+    "text": "מָחָר"
+  },
+  "s10-10::opt1": {
+    "file": "b213b1c9d6d6136a.mp3",
+    "text": "הַיּוֹם"
+  },
+  "s10-10::opt2": {
+    "file": "672788f0dc98b8d6.mp3",
+    "text": "אֶתְמוֹל"
+  },
+  "s10-10::q": {
+    "file": "928426e9aab4771a.mp3",
+    "text": "מָתַי נֵלֵךְ לַיָּם?"
+  },
+  "s10-11": {
+    "file": "5c43955231908e9c.mp3",
+    "text": "הַיֶּלֶד רָחַץ אֶת הַיָּדַיִם לִפְנֵי הָאֹכֶל."
+  },
+  "s10-11::opt0": {
+    "file": "4e35a296c7ce71c3.mp3",
+    "text": "לִפְנֵי הָאֹכֶל"
+  },
+  "s10-11::opt1": {
+    "file": "7e1eaddb5b6cc020.mp3",
+    "text": "אַחֲרֵי הַשֵּׁנָה"
+  },
+  "s10-11::opt2": {
+    "file": "56ddb9bc04855ebb.mp3",
+    "text": "בַּלַּיְלָה"
+  },
+  "s10-11::q": {
+    "file": "3e6dc6e7a5d023b1.mp3",
+    "text": "מָתַי רָחַץ אֶת הַיָּדַיִם?"
+  },
+  "s10-12": {
+    "file": "3583f75d32b74ae5.mp3",
+    "text": "הַיַּלְדָּה מָצְאָה מַטְבֵּעַ עַל הָרִצְפָּה."
+  },
+  "s10-12::q": {
+    "file": "317129aace888475.mp3",
+    "text": "מָה מָצְאָה הַיַּלְדָּה?"
+  },
+  "s10-13": {
+    "file": "6ee4b839b36793b4.mp3",
+    "text": "בַּחֹרֶף יוֹרֵד גֶּשֶׁם וְקַר מְאֹד."
+  },
+  "s10-13::q": {
+    "file": "8ebe075dbef1541f.mp3",
+    "text": "אֵיךְ מֶזֶג הָאֲוִיר בַּחֹרֶף?"
+  },
+  "s10-14": {
+    "file": "4cc9586799eebaed.mp3",
+    "text": "הַיְלָדִים אָכְלוּ גְּלִידָה בַּקַּיִץ."
+  },
+  "s10-14::q": {
+    "file": "7da1349f49e1629a.mp3",
+    "text": "מָה אָכְלוּ הַיְלָדִים?"
+  },
+  "s10-15": {
+    "file": "a181b3e3d4639f42.mp3",
+    "text": "הַצִּפּוֹר בָּנְתָה קֵן עַל הָעֵץ."
+  },
+  "s10-15::opt0": {
+    "file": "0ec2c4bfce9ce619.mp3",
+    "text": "קֵן"
+  },
+  "s10-15::opt1": {
+    "file": "b3910fb29e9b4e6a.mp3",
+    "text": "בַּיִת"
+  },
+  "s10-15::opt2": {
+    "file": "798ada46d5e85fb3.mp3",
+    "text": "גֶּשֶׁר"
+  },
+  "s10-15::q": {
+    "file": "52954c91c0f852c1.mp3",
+    "text": "מָה בָּנְתָה הַצִּפּוֹר?"
+  },
+  "s10-16": {
+    "file": "c41db6ce4ed898b4.mp3",
+    "text": "אֲנִי אוֹהֵב לִקְרֹא סְפָרִים בָּעֶרֶב."
+  },
+  "s10-16::q": {
+    "file": "c4c17a6d261aaa54.mp3",
+    "text": "מָה אֲנִי אוֹהֵב לַעֲשׂוֹת?"
+  },
+  "s10-17": {
+    "file": "92b929820610993d.mp3",
+    "text": "הַמּוֹרָה כָּתְבָה עַל הַלּוּחַ בַּכִּתָּה."
+  },
+  "s10-17::opt0": {
+    "file": "9cde4e4ea8cccecd.mp3",
+    "text": "עַל הַלּוּחַ"
+  },
+  "s10-17::opt1": {
+    "file": "7f7dd3c7ec9d627b.mp3",
+    "text": "בַּסֵּפֶר"
+  },
+  "s10-17::opt2": {
+    "file": "b9d44b2a629e92c4.mp3",
+    "text": "בַּמַּחְבֶּרֶת"
+  },
+  "s10-17::q": {
+    "file": "edce2b387df93116.mp3",
+    "text": "אֵיפֹה כָּתְבָה הַמּוֹרָה?"
+  },
+  "s10-18": {
+    "file": "cc91275632190cc5.mp3",
+    "text": "הַכַּדּוּר עָף גָּבוֹהַּ וְנָפַל בַּמַּיִם."
+  },
+  "s10-18::q": {
+    "file": "d9355eb0c56b5baf.mp3",
+    "text": "לְאָן נָפַל הַכַּדּוּר?"
+  },
+  "s10-19": {
+    "file": "106b5b70c119904c.mp3",
+    "text": "אַבָּא תִּקֵּן אֶת הָאוֹפַנַּיִם שֶׁלִּי."
+  },
+  "s10-19::q": {
+    "file": "738f7c9c86b3d5bf.mp3",
+    "text": "מָה תִּקֵּן אַבָּא?"
+  },
+  "s10-1::q": {
+    "file": "d48691fe7efda0f6.mp3",
+    "text": "לְאָן הָלַךְ הַיֶּלֶד?"
+  },
+  "s10-2": {
+    "file": "49c29de0b06af5ad.mp3",
+    "text": "אַיֵּה הַכֶּלֶב שֶׁלִּי? הוּא בַּגִּנָּה."
+  },
+  "s10-20": {
+    "file": "0d4fa32b224d9a50.mp3",
+    "text": "הַשֶּׁמֶשׁ שָׁקְעָה וְהַלַּיְלָה הִגִּיעַ."
+  },
+  "s10-20::opt0": {
+    "file": "74f3cdb97a9581b4.mp3",
+    "text": "שָׁקְעָה"
+  },
+  "s10-20::opt1": {
+    "file": "8680f09e4af53cbb.mp3",
+    "text": "זָרְחָה"
+  },
+  "s10-20::opt2": {
+    "file": "9bf6e2bc3ecca0ed.mp3",
+    "text": "הִתְחַבְּאָה"
+  },
+  "s10-20::q": {
+    "file": "1d5313a6839e81bc.mp3",
+    "text": "מָה קָרָה לַשֶּׁמֶשׁ?"
+  },
+  "s10-2::q": {
+    "file": "4d5788023cab1186.mp3",
+    "text": "אֵיפֹה הַכֶּלֶב?"
+  },
+  "s10-3": {
+    "file": "62db29552c0cd839.mp3",
+    "text": "אִמָּא קָנְתָה לֶחֶם טָרִי בַּחֲנוּת."
+  },
+  "s10-3::q": {
+    "file": "ab8331a9b30237a5.mp3",
+    "text": "מָה קָנְתָה אִמָּא?"
+  },
+  "s10-4": {
+    "file": "541b0ef917ee1fa7.mp3",
+    "text": "הַיְלָדִים שִׂחֲקוּ בַּכַּדּוּר בֶּחָצֵר."
+  },
+  "s10-4::q": {
+    "file": "27f3101b6b32c5a1.mp3",
+    "text": "בְּמָה שִׂחֲקוּ הַיְלָדִים?"
+  },
+  "s10-5": {
+    "file": "35fb90bb1ba3f8c4.mp3",
+    "text": "הֶחָתוּל טִפֵּס עַל הָעֵץ הַגָּבוֹהַּ."
+  },
+  "s10-5::q": {
+    "file": "b770480d9806ad17.mp3",
+    "text": "לְאָן טִפֵּס הֶחָתוּל?"
+  },
+  "s10-6": {
+    "file": "6a4ad060f87963e8.mp3",
+    "text": "בַּבֹּקֶר אֲנִי אוֹכֵל אֲרוּחָה בְּרִיאָה."
+  },
+  "s10-6::q": {
+    "file": "ca4cea35a9286d45.mp3",
+    "text": "מָתַי הָאֲרוּחָה?"
+  },
+  "s10-7": {
+    "file": "02f9a06df4a26ce8.mp3",
+    "text": "הַיַּלְדָּה צִיְּרָה פֶּרַח אָדֹם וְיָפֶה."
+  },
+  "s10-7::q": {
+    "file": "52825079bdd51965.mp3",
+    "text": "מָה צִיְּרָה הַיַּלְדָּה?"
+  },
+  "s10-8": {
+    "file": "3177dea0750736aa.mp3",
+    "text": "סַבָּא סִפֵּר לָנוּ סִפּוּר מַצְחִיק."
+  },
+  "s10-8::q": {
+    "file": "44ae5e9e74f60945.mp3",
+    "text": "מָה סִפֵּר סַבָּא?"
+  },
+  "s10-9": {
+    "file": "36535d8705a95071.mp3",
+    "text": "הַכֶּלֶב שָׂמֵחַ כִּי הוּא מְשַׂחֵק."
+  },
+  "s10-9::opt0": {
+    "file": "e1aff81c90fb11bf.mp3",
+    "text": "הוּא מְשַׂחֵק"
+  },
+  "s10-9::opt1": {
+    "file": "a495217fcfd40470.mp3",
+    "text": "הוּא עָצוּב"
+  },
+  "s10-9::opt2": {
+    "file": "9ef4a53223fca794.mp3",
+    "text": "הוּא יָשֵׁן"
+  },
+  "s10-9::q": {
+    "file": "c490502bae45218a.mp3",
+    "text": "לָמָּה הַכֶּלֶב שָׂמֵחַ?"
+  },
+  "s9-1": {
+    "file": "db522d9a18824ebc.mp3",
+    "text": "הַיֶּלֶד אוֹכֵל תַּפּוּחַ."
+  },
+  "s9-10": {
+    "file": "ccb49f11dcf78e0b.mp3",
+    "text": "הַדָּג שׂוֹחֶה בַּיָּם."
+  },
+  "s9-10::q": {
+    "file": "7c17bff8d7e9b153.mp3",
+    "text": "אֵיפֹה הַדָּג?"
+  },
+  "s9-11": {
+    "file": "cff8fbbacfae864a.mp3",
+    "text": "סַבָּא יוֹשֵׁב עַל הַכִּסֵּא."
+  },
+  "s9-11::q": {
+    "file": "e91f09563b344f40.mp3",
+    "text": "עַל מָה יוֹשֵׁב סַבָּא?"
+  },
+  "s9-12": {
+    "file": "8602bcb3819d4ee9.mp3",
+    "text": "הַיַּלְדָּה רוֹכֶבֶת עַל אוֹפַנַּיִם."
+  },
+  "s9-12::q": {
+    "file": "1785abb2dd58a43b.mp3",
+    "text": "עַל מָה רוֹכֶבֶת הַיַּלְדָּה?"
+  },
+  "s9-13": {
+    "file": "1a454b57f797105c.mp3",
+    "text": "הַפָּרָה אוֹכֶלֶת עֵשֶׂב."
+  },
+  "s9-13::q": {
+    "file": "59d572dbb66dbd54.mp3",
+    "text": "מָה אוֹכֶלֶת הַפָּרָה?"
+  },
+  "s9-14": {
+    "file": "22cf6e2bebfd5d05.mp3",
+    "text": "הַיֶּלֶד לוֹבֵשׁ כּוֹבַע."
+  },
+  "s9-14::q": {
+    "file": "bebf0121fd28272c.mp3",
+    "text": "מָה לוֹבֵשׁ הַיֶּלֶד?"
+  },
+  "s9-15": {
+    "file": "62cc8ddde660c30b.mp3",
+    "text": "אִמָּא מְבַשֶּׁלֶת מָרָק."
+  },
+  "s9-15::q": {
+    "file": "231eaca46ecb9bbe.mp3",
+    "text": "מָה מְבַשֶּׁלֶת אִמָּא?"
+  },
+  "s9-16": {
+    "file": "c9b48d310082a813.mp3",
+    "text": "הַיְלָדִים שְׂמֵחִים."
+  },
+  "s9-16::q": {
+    "file": "115983869714019c.mp3",
+    "text": "אֵיךְ הַיְלָדִים?"
+  },
+  "s9-17": {
+    "file": "d6863add6d984c3c.mp3",
+    "text": "בַּלַּיְלָה רוֹאִים כּוֹכָבִים."
+  },
+  "s9-17::q": {
+    "file": "a361da9953b22426.mp3",
+    "text": "מָתַי רוֹאִים כּוֹכָבִים?"
+  },
+  "s9-18": {
+    "file": "9211725126236729.mp3",
+    "text": "הָאַרְנָב קוֹפֵץ."
+  },
+  "s9-18::q": {
+    "file": "4754d21ddf1e2bf2.mp3",
+    "text": "מִי קוֹפֵץ?"
+  },
+  "s9-19": {
+    "file": "1449405ed1b08015.mp3",
+    "text": "הַיֶּלֶד מְצַיֵּר."
+  },
+  "s9-19::q": {
+    "file": "28da8ca011d29eeb.mp3",
+    "text": "מָה עוֹשֶׂה הַיֶּלֶד?"
+  },
+  "s9-1::q": {
+    "file": "4b770ff2f3befad7.mp3",
+    "text": "מָה הַיֶּלֶד אוֹכֵל?"
+  },
+  "s9-2": {
+    "file": "d81c10fd6f043905.mp3",
+    "text": "הַכֶּלֶב רָץ בַּגַּן."
+  },
+  "s9-20": {
+    "file": "30b62c54331dff1c.mp3",
+    "text": "הַגֶּשֶׁם יוֹרֵד."
+  },
+  "s9-20::q": {
+    "file": "a81c26bb033e3903.mp3",
+    "text": "מָה יוֹרֵד?"
+  },
+  "s9-2::q": {
+    "file": "1d9b80e443716a75.mp3",
+    "text": "אֵיפֹה רָץ הַכֶּלֶב?"
+  },
+  "s9-3": {
+    "file": "99edd1d1ee825581.mp3",
+    "text": "הֶחָתוּל יָשֵׁן."
+  },
+  "s9-3::q": {
+    "file": "7c26aa21020d8843.mp3",
+    "text": "מִי יָשֵׁן?"
+  },
+  "s9-4": {
+    "file": "7113017ec7e82c8c.mp3",
+    "text": "אַבָּא נוֹסֵעַ בִּמְכוֹנִית."
+  },
+  "s9-4::q": {
+    "file": "981a549bf9427a28.mp3",
+    "text": "בְּמָה נוֹסֵעַ אַבָּא?"
+  },
+  "s9-5": {
+    "file": "0cc4f207557defb6.mp3",
+    "text": "הַיַּלְדָּה שׁוֹתָה מַיִם."
+  },
+  "s9-5::q": {
+    "file": "55952e1fa3e12df8.mp3",
+    "text": "מָה שׁוֹתָה הַיַּלְדָּה?"
+  },
+  "s9-6": {
+    "file": "9906462bc86a972e.mp3",
+    "text": "הַשֶּׁמֶשׁ זוֹרַחַת."
+  },
+  "s9-6::q": {
+    "file": "dff42878b926e9d8.mp3",
+    "text": "מָה זוֹרֵחַ?"
+  },
+  "s9-7": {
+    "file": "a3c99f14115d9b4e.mp3",
+    "text": "אִמָּא קוֹרֵאת סֵפֶר."
+  },
+  "s9-7::q": {
+    "file": "6baa4a14ce236332.mp3",
+    "text": "מָה קוֹרֵאת אִמָּא?"
+  },
+  "s9-8": {
+    "file": "8a252cbb4b155130.mp3",
+    "text": "הַצִּפּוֹר עָפָה."
+  },
+  "s9-8::q": {
+    "file": "a81fb11f24a0496a.mp3",
+    "text": "מִי עָפָה?"
+  },
+  "s9-9": {
+    "file": "fdb399b82be7c213.mp3",
+    "text": "הַיֶּלֶד מְשַׂחֵק בַּכַּדּוּר."
+  },
+  "s9-9::q": {
+    "file": "6812e510811d4314.mp3",
+    "text": "בְּמָה מְשַׂחֵק הַיֶּלֶד?"
+  },
+  "samekh-hirik": {
+    "file": "a25ed97411a750a4.mp3",
+    "text": "סִה"
+  },
+  "samekh-hirikMale": {
+    "file": "77843b9c075ebbfa.mp3",
+    "text": "סִי"
+  },
+  "samekh-holam": {
+    "file": "25829ac3afc5c970.mp3",
+    "text": "סוֹ"
+  },
+  "samekh-holamMale": {
+    "file": "25829ac3afc5c970.mp3",
+    "text": "סוֹ"
+  },
+  "samekh-kamatz": {
+    "file": "f901f173f47c47ad.mp3",
+    "text": "סָה"
+  },
+  "samekh-kubutz": {
+    "file": "0e697dba4678db9f.mp3",
+    "text": "סוּ"
+  },
+  "samekh-patach": {
+    "file": "3fd24915799c0e4f.mp3",
+    "text": "סַה"
+  },
+  "samekh-segol": {
+    "file": "3abd422c5b3de19a.mp3",
+    "text": "סֶה"
+  },
+  "samekh-shuruk": {
+    "file": "0e697dba4678db9f.mp3",
+    "text": "סוּ"
+  },
+  "samekh-shvaNa": {
+    "file": "7886eb8d4f4fd723.mp3",
+    "text": "סֵה",
+    "rate": "+100%"
+  },
+  "samekh-tzere": {
+    "file": "795856ca863ab328.mp3",
+    "text": "סֵה"
+  },
+  "shin-hirik": {
+    "file": "dde94380a286501c.mp3",
+    "text": "שִׁה"
+  },
+  "shin-hirikMale": {
+    "file": "5e875abe604f2561.mp3",
+    "text": "שִׁי"
+  },
+  "shin-holam": {
+    "file": "1494007ba65bb0b8.mp3",
+    "text": "שׁוֹ"
+  },
+  "shin-holamMale": {
+    "file": "1494007ba65bb0b8.mp3",
+    "text": "שׁוֹ"
+  },
+  "shin-kamatz": {
+    "file": "2be670b971138772.mp3",
+    "text": "שָׁה"
+  },
+  "shin-kubutz": {
+    "file": "71f036012281d3b7.mp3",
+    "text": "שׁוּ"
+  },
+  "shin-patach": {
+    "file": "b3e276e09aa2ca3e.mp3",
+    "text": "שַׁה"
+  },
+  "shin-segol": {
+    "file": "ad39f23f0418a2e4.mp3",
+    "text": "שֶׁה"
+  },
+  "shin-shuruk": {
+    "file": "71f036012281d3b7.mp3",
+    "text": "שׁוּ"
+  },
+  "shin-shvaNa": {
+    "file": "6bae8574640b69c4.mp3",
+    "text": "שֵׁה",
+    "rate": "+100%"
+  },
+  "shin-tzere": {
+    "file": "5db02fe21836e4c7.mp3",
+    "text": "שֵׁה"
+  },
+  "sin-hirik": {
+    "file": "b420b2b11b5d9a2f.mp3",
+    "text": "שִׂה"
+  },
+  "sin-hirikMale": {
+    "file": "9ce974a82a12af67.mp3",
+    "text": "שִׂי"
+  },
+  "sin-holam": {
+    "file": "b58952aed2793a47.mp3",
+    "text": "שׂוֹ"
+  },
+  "sin-holamMale": {
+    "file": "b58952aed2793a47.mp3",
+    "text": "שׂוֹ"
+  },
+  "sin-kamatz": {
+    "file": "8a6e177d9e5d65bb.mp3",
+    "text": "שָׂה"
+  },
+  "sin-kubutz": {
+    "file": "339b06f4faf1bd4e.mp3",
+    "text": "שׂוּ"
+  },
+  "sin-patach": {
+    "file": "f4b9895e06a900de.mp3",
+    "text": "שַׂה"
+  },
+  "sin-segol": {
+    "file": "2c1d0a75922e2822.mp3",
+    "text": "שֶׂה"
+  },
+  "sin-shuruk": {
+    "file": "339b06f4faf1bd4e.mp3",
+    "text": "שׂוּ"
+  },
+  "sin-shvaNa": {
+    "file": "d59a09d319958694.mp3",
+    "text": "שֵׂה",
+    "rate": "+100%"
+  },
+  "sin-tzere": {
+    "file": "ba7e726ab9624b9f.mp3",
+    "text": "שֵׂה"
+  },
+  "tav-hirik": {
+    "file": "f80930e9b1f41e65.mp3",
+    "text": "תִה"
+  },
+  "tav-hirikMale": {
+    "file": "56966e3752c615d9.mp3",
+    "text": "תִי"
+  },
+  "tav-holam": {
+    "file": "4570dec165bc3887.mp3",
+    "text": "טוֹ"
+  },
+  "tav-holamMale": {
+    "file": "4570dec165bc3887.mp3",
+    "text": "טוֹ"
+  },
+  "tav-kamatz": {
+    "file": "5bf50e2f9f6f1d25.mp3",
+    "text": "תָה"
+  },
+  "tav-kubutz": {
+    "file": "e794f65fd3a432e3.mp3",
+    "text": "טוּ"
+  },
+  "tav-patach": {
+    "file": "af7fb1b7fbadf62e.mp3",
+    "text": "תַה"
+  },
+  "tav-segol": {
+    "file": "e61b305ac5848e52.mp3",
+    "text": "תֶה"
+  },
+  "tav-shuruk": {
+    "file": "e794f65fd3a432e3.mp3",
+    "text": "טוּ"
+  },
+  "tav-shvaNa": {
+    "file": "ed128cdc763883e1.mp3",
+    "text": "תֵה",
+    "rate": "+100%"
+  },
+  "tav-tzere": {
+    "file": "07933d238ba4a37e.mp3",
+    "text": "תֵה"
+  },
+  "tet-hirik": {
+    "file": "054dc4fa6450379c.mp3",
+    "text": "טִה"
+  },
+  "tet-hirikMale": {
+    "file": "d33671d3a1d9f779.mp3",
+    "text": "טִי"
+  },
+  "tet-holam": {
+    "file": "4570dec165bc3887.mp3",
+    "text": "טוֹ"
+  },
+  "tet-holamMale": {
+    "file": "4570dec165bc3887.mp3",
+    "text": "טוֹ"
+  },
+  "tet-kamatz": {
+    "file": "20d2239945fca74d.mp3",
+    "text": "טָה"
+  },
+  "tet-kubutz": {
+    "file": "e794f65fd3a432e3.mp3",
+    "text": "טוּ"
+  },
+  "tet-patach": {
+    "file": "a11b02818b47c363.mp3",
+    "text": "טַה"
+  },
+  "tet-segol": {
+    "file": "660c82624132eb81.mp3",
+    "text": "טֶה"
+  },
+  "tet-shuruk": {
+    "file": "e794f65fd3a432e3.mp3",
+    "text": "טוּ"
+  },
+  "tet-shvaNa": {
+    "file": "497dad46d4638fbd.mp3",
+    "text": "טֵה",
+    "rate": "+100%"
+  },
+  "tet-tzere": {
+    "file": "4c591b16b2b92d87.mp3",
+    "text": "טֵה"
+  },
+  "tsadi-hirik": {
+    "file": "f05226772377794b.mp3",
+    "text": "צִה"
+  },
+  "tsadi-hirikMale": {
+    "file": "940cb78918ed449a.mp3",
+    "text": "צִי"
+  },
+  "tsadi-holam": {
+    "file": "1f70f199066a8510.mp3",
+    "text": "צוֹא"
+  },
+  "tsadi-holamMale": {
+    "file": "1f70f199066a8510.mp3",
+    "text": "צוֹא"
+  },
+  "tsadi-kamatz": {
+    "file": "b566e512f750223c.mp3",
+    "text": "צָה"
+  },
+  "tsadi-kubutz": {
+    "file": "48ed736c0b97ef25.mp3",
+    "text": "צוּא"
+  },
+  "tsadi-patach": {
+    "file": "1eed4a4f5db34242.mp3",
+    "text": "צַה"
+  },
+  "tsadi-segol": {
+    "file": "331b03c184cc4c02.mp3",
+    "text": "צֶה"
+  },
+  "tsadi-shuruk": {
+    "file": "48ed736c0b97ef25.mp3",
+    "text": "צוּא"
+  },
+  "tsadi-shvaNa": {
+    "file": "8580d39baf701313.mp3",
+    "text": "צֵה",
+    "rate": "+100%"
+  },
+  "tsadi-tzere": {
+    "file": "d11ab618d2ecf9a8.mp3",
+    "text": "צֵה"
+  },
+  "vav-hirik": {
+    "file": "e3825754868c8bd8.mp3",
+    "text": "וִה"
+  },
+  "vav-hirikMale": {
+    "file": "d42552a4bc465600.mp3",
+    "text": "וִי"
+  },
+  "vav-holam": {
+    "file": "5069088ea734246c.mp3",
+    "text": "ווֹ"
+  },
+  "vav-holamMale": {
+    "file": "5069088ea734246c.mp3",
+    "text": "ווֹ"
+  },
+  "vav-kamatz": {
+    "file": "bb73920aac60bf31.mp3",
+    "text": "וָה"
+  },
+  "vav-kubutz": {
+    "file": "da8604b98a3bdd31.mp3",
+    "text": "ווּ"
+  },
+  "vav-patach": {
+    "file": "0a44f1be3a651491.mp3",
+    "text": "וַה"
+  },
+  "vav-segol": {
+    "file": "39bbdf0d0b7e2f36.mp3",
+    "text": "וֶה"
+  },
+  "vav-shuruk": {
+    "file": "da8604b98a3bdd31.mp3",
+    "text": "ווּ"
+  },
+  "vav-shvaNa": {
+    "file": "932dd4b0a1b7e5c0.mp3",
+    "text": "וֵה",
+    "rate": "+100%"
+  },
+  "vav-tzere": {
+    "file": "11e4f60c65b8c972.mp3",
+    "text": "וֵה"
+  },
+  "vet-hirik": {
+    "file": "80e8c74c67e33df2.mp3",
+    "text": "בִה"
+  },
+  "vet-hirikMale": {
+    "file": "b537612512b4c894.mp3",
+    "text": "בִי"
+  },
+  "vet-holam": {
+    "file": "5069088ea734246c.mp3",
+    "text": "ווֹ"
+  },
+  "vet-holamMale": {
+    "file": "5069088ea734246c.mp3",
+    "text": "ווֹ"
+  },
+  "vet-kamatz": {
+    "file": "de8c7f3a892afa16.mp3",
+    "text": "בָה"
+  },
+  "vet-kubutz": {
+    "file": "da8604b98a3bdd31.mp3",
+    "text": "ווּ"
+  },
+  "vet-patach": {
+    "file": "d79a361fa2638cce.mp3",
+    "text": "בַה"
+  },
+  "vet-segol": {
+    "file": "bafed04227ee1280.mp3",
+    "text": "בֶה"
+  },
+  "vet-shuruk": {
+    "file": "da8604b98a3bdd31.mp3",
+    "text": "ווּ"
+  },
+  "vet-shvaNa": {
+    "file": "48e9ca614bd3f262.mp3",
+    "text": "בֵה",
+    "rate": "+100%"
+  },
+  "vet-tzere": {
+    "file": "b33f5ac517440e32.mp3",
+    "text": "בֵה"
+  },
+  "w-abba": {
+    "file": "0137c05515b6935e.mp3",
+    "text": "אַבָּא"
+  },
+  "w-achbar": {
+    "file": "d5bc5a937380f3be.mp3",
+    "text": "עַכְבָּר"
+  },
+  "w-ale": {
+    "file": "590e6bd8498d7298.mp3",
+    "text": "עָלֶה"
+  },
+  "w-anan": {
+    "file": "c8c146281cadb39d.mp3",
+    "text": "עָנָן"
+  },
+  "w-arnav": {
+    "file": "d2911a3a4d7bdd0c.mp3",
+    "text": "אַרְנָב"
+  },
+  "w-arye": {
+    "file": "2a61c02a6302f6bd.mp3",
+    "text": "אַרְיֵה"
+  },
+  "w-ayin": {
+    "file": "9dd301951c0245c6.mp3",
+    "text": "עַיִן"
+  },
+  "w-bakbuk": {
+    "file": "80d456a2ccd8bdbd.mp3",
+    "text": "בַּקְבּוּק"
+  },
+  "w-balon": {
+    "file": "b64ee1c2c56ddb40.mp3",
+    "text": "בַּלּוֹן"
+  },
+  "w-bayit": {
+    "file": "b3910fb29e9b4e6a.mp3",
+    "text": "בַּיִת"
+  },
+  "w-beitsa": {
+    "file": "edc9f637b08c8197.mp3",
+    "text": "בֵּיצָה"
+  },
+  "w-buba": {
+    "file": "7341644aa73888b5.mp3",
+    "text": "בֻּבָּה"
+  },
+  "w-chalav": {
+    "file": "8aa8e5192c664c8b.mp3",
+    "text": "חָלָב"
+  },
+  "w-chamor": {
+    "file": "36b878d50474948d.mp3",
+    "text": "חֲמוֹר"
+  },
+  "w-chatul": {
+    "file": "e4639c7817945083.mp3",
+    "text": "חָתוּל"
+  },
+  "w-chultsa": {
+    "file": "c6f9727011258d3c.mp3",
+    "text": "חֻלְצָה"
+  },
+  "w-degel": {
+    "file": "e44e199bc303bcba.mp3",
+    "text": "דֶּגֶל"
+  },
+  "w-delet": {
+    "file": "86be904401d19c73.mp3",
+    "text": "דֶּלֶת"
+  },
+  "w-dli": {
+    "file": "2ef06b629a358d79.mp3",
+    "text": "דְּלִי"
+  },
+  "w-enav": {
+    "file": "6df8733bf444d0cb.mp3",
+    "text": "עֵנָב"
+  },
+  "w-gerev": {
+    "file": "ab103c2e9a588f8a.mp3",
+    "text": "גֶּרֶב"
+  },
+  "w-geshem": {
+    "file": "aff01bf32dfe4b8a.mp3",
+    "text": "גֶּשֶׁם"
+  },
+  "w-gesher": {
+    "file": "798ada46d5e85fb3.mp3",
+    "text": "גֶּשֶׁר"
+  },
+  "w-gezer": {
+    "file": "f282cd393586a31f.mp3",
+    "text": "גֶּזֶר"
+  },
+  "w-imma": {
+    "file": "310c6562f0c7ffd9.mp3",
+    "text": "אִמָּא"
+  },
+  "w-kadur": {
+    "file": "a52d6e0ee16260d9.mp3",
+    "text": "כַּדּוּר"
+  },
+  "w-kelev": {
+    "file": "1ace23fe03723ef8.mp3",
+    "text": "כֶּלֶב"
+  },
+  "w-kerach": {
+    "file": "b27cfa4ed78b3a4d.mp3",
+    "text": "קֶרַח"
+  },
+  "w-keter": {
+    "file": "42827097701bc2fa.mp3",
+    "text": "כֶּתֶר"
+  },
+  "w-kise": {
+    "file": "0a67cafe91f8e082.mp3",
+    "text": "כִּסֵּא"
+  },
+  "w-kita": {
+    "file": "3656166d12a28d6d.mp3",
+    "text": "כִּתָּה"
+  },
+  "w-kochav": {
+    "file": "317fb197d752ae61.mp3",
+    "text": "כּוֹכָב"
+  },
+  "w-kova": {
+    "file": "980ab99adca77420.mp3",
+    "text": "כּוֹבַע"
+  },
+  "w-lechem": {
+    "file": "65c97cbb2a0ccfeb.mp3",
+    "text": "לֶחֶם"
+  },
+  "w-limon": {
+    "file": "c53977dfff0e3aa7.mp3",
+    "text": "לִימוֹן"
+  },
+  "w-malka": {
+    "file": "8ae29ba28caa08ed.mp3",
+    "text": "מַלְכָּה"
+  },
+  "w-matos": {
+    "file": "bd23d5a21bcc0bb2.mp3",
+    "text": "מָטוֹס"
+  },
+  "w-mayim": {
+    "file": "25188063879ceff6.mp3",
+    "text": "מַיִם"
+  },
+  "w-mita": {
+    "file": "475beccaea722a9f.mp3",
+    "text": "מִטָּה"
+  },
+  "w-more": {
+    "file": "f0d91c3acf75b5c8.mp3",
+    "text": "מוֹרֶה"
+  },
+  "w-naal": {
+    "file": "8bc866735288103b.mp3",
+    "text": "נַעַל"
+  },
+  "w-nahar": {
+    "file": "34eed15c6fbfe055.mp3",
+    "text": "נָהָר"
+  },
+  "w-ozen": {
+    "file": "de1f7bc4a4d47967.mp3",
+    "text": "אֹזֶן"
+  },
+  "w-para": {
+    "file": "d091dd9da327a1a4.mp3",
+    "text": "פָּרָה"
+  },
+  "w-perach": {
+    "file": "8f08afc94bb9d4a8.mp3",
+    "text": "פֶּרַח"
+  },
+  "w-regel": {
+    "file": "db17fe3a76bbbd60.mp3",
+    "text": "רֶגֶל"
+  },
+  "w-saba": {
+    "file": "6e39ad530e22ca37.mp3",
+    "text": "סַבָּא"
+  },
+  "w-sakin": {
+    "file": "f43d57f25bd5c6b9.mp3",
+    "text": "סַכִּין"
+  },
+  "w-sefer": {
+    "file": "a234f0bb4fb83f88.mp3",
+    "text": "סֵפֶר"
+  },
+  "w-shaon": {
+    "file": "92771e5df57255d5.mp3",
+    "text": "שָׁעוֹן"
+  },
+  "w-sheleg": {
+    "file": "a602fa0d440fa518.mp3",
+    "text": "שֶׁלֶג"
+  },
+  "w-shemesh": {
+    "file": "941ca178ab58fade.mp3",
+    "text": "שֶׁמֶשׁ"
+  },
+  "w-sira": {
+    "file": "22606770e8eb2fca.mp3",
+    "text": "סִירָה"
+  },
+  "w-tapuz": {
+    "file": "38322503e8b0f73f.mp3",
+    "text": "תַּפּוּז"
+  },
+  "w-tinok": {
+    "file": "57d34863bb8746a2.mp3",
+    "text": "תִּינוֹק"
+  },
+  "w-tsipor": {
+    "file": "db321b2924f25eda.mp3",
+    "text": "צִפּוֹר"
+  },
+  "w-uga": {
+    "file": "0ed473ba536a33de.mp3",
+    "text": "עוּגָה"
+  },
+  "w-vered": {
+    "file": "b4dd300d8e438dc4.mp3",
+    "text": "וֶרֶד"
+  },
+  "w-yaar": {
+    "file": "6acb694c2ef820a0.mp3",
+    "text": "יַעַר"
+  },
+  "w-yeled": {
+    "file": "bbff1966eeea3e2b.mp3",
+    "text": "יֶלֶד"
+  },
+  "w6-ets": {
+    "file": "15cafb48161a0243.mp3",
+    "text": "עֵץ"
+  },
+  "w6-gan": {
+    "file": "4677b1363b732220.mp3",
+    "text": "גַּן"
+  },
+  "w6-kaf": {
+    "file": "f8166a54936aa0ce.mp3",
+    "text": "כַּף"
+  },
+  "w6-melech": {
+    "file": "e26de11f569eeea4.mp3",
+    "text": "מֶלֶךְ"
+  },
+  "w6-yam": {
+    "file": "6ff015302adb1d44.mp3",
+    "text": "יָם"
+  },
+  "yod-hirik": {
+    "file": "6918c82542686593.mp3",
+    "text": "יִה"
+  },
+  "yod-hirikMale": {
+    "file": "7e24913fc5137971.mp3",
+    "text": "יִי"
+  },
+  "yod-holam": {
+    "file": "b61ae794693bef2f.mp3",
+    "text": "יוֹ"
+  },
+  "yod-holamMale": {
+    "file": "b61ae794693bef2f.mp3",
+    "text": "יוֹ"
+  },
+  "yod-kamatz": {
+    "file": "c88b8f2cfd40163f.mp3",
+    "text": "יָה"
+  },
+  "yod-kubutz": {
+    "file": "310b3b90d7b8c67b.mp3",
+    "text": "יוּ"
+  },
+  "yod-patach": {
+    "file": "572920bc6edc2c5e.mp3",
+    "text": "יַה"
+  },
+  "yod-segol": {
+    "file": "69a667137397dc3f.mp3",
+    "text": "יֶה"
+  },
+  "yod-shuruk": {
+    "file": "310b3b90d7b8c67b.mp3",
+    "text": "יוּ"
+  },
+  "yod-shvaNa": {
+    "file": "5f5efa132220a43c.mp3",
+    "text": "יֵה",
+    "rate": "+100%"
+  },
+  "yod-tzere": {
+    "file": "cf4e6beb7da3dfc2.mp3",
+    "text": "יֵה"
+  },
+  "zayin-hirik": {
+    "file": "c06cd6f1ee9466ad.mp3",
+    "text": "זִה"
+  },
+  "zayin-hirikMale": {
+    "file": "580c743a42113645.mp3",
+    "text": "זִי"
+  },
+  "zayin-holam": {
+    "file": "73547c5ac06aa064.mp3",
+    "text": "זוֹ"
+  },
+  "zayin-holamMale": {
+    "file": "73547c5ac06aa064.mp3",
+    "text": "זוֹ"
+  },
+  "zayin-kamatz": {
+    "file": "12f1e54d1c97b765.mp3",
+    "text": "זָה"
+  },
+  "zayin-kubutz": {
+    "file": "9f99b33a93c61746.mp3",
+    "text": "זוּ"
+  },
+  "zayin-patach": {
+    "file": "38826d763a5a6adc.mp3",
+    "text": "זַה"
+  },
+  "zayin-segol": {
+    "file": "28b270e2386fe95c.mp3",
+    "text": "זֶה"
+  },
+  "zayin-shuruk": {
+    "file": "9f99b33a93c61746.mp3",
+    "text": "זוּ"
+  },
+  "zayin-shvaNa": {
+    "file": "875f65631026b360.mp3",
+    "text": "זֵה",
+    "rate": "+100%"
+  },
+  "zayin-tzere": {
+    "file": "5ac5f1ac49ffe2ec.mp3",
+    "text": "זֵה"
+  }
+}

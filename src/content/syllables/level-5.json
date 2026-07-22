@@ -1,0 +1,660 @@
+[
+  {
+    "id": "alef-shuruk",
+    "display": "אוּ",
+    "letter": "א",
+    "nikud": "shuruk",
+    "sound": "_u",
+    "distractors": [
+      "he-shuruk",
+      "alef-kamatz",
+      "alef-hirik"
+    ]
+  },
+  {
+    "id": "alef-kubutz",
+    "display": "אֻ",
+    "spokenForm": "אוּ",
+    "letter": "א",
+    "nikud": "kubutz",
+    "sound": "_u",
+    "distractors": [
+      "he-kubutz",
+      "alef-kamatz",
+      "alef-hirik"
+    ]
+  },
+  {
+    "id": "bet-shuruk",
+    "display": "בּוּ",
+    "letter": "ב",
+    "nikud": "shuruk",
+    "sound": "b_u",
+    "distractors": [
+      "kaf-shuruk",
+      "bet-kamatz",
+      "bet-hirik"
+    ]
+  },
+  {
+    "id": "bet-kubutz",
+    "display": "בֻּ",
+    "spokenForm": "בּוּ",
+    "letter": "ב",
+    "nikud": "kubutz",
+    "sound": "b_u",
+    "distractors": [
+      "kaf-kubutz",
+      "bet-kamatz",
+      "bet-hirik"
+    ]
+  },
+  {
+    "id": "vet-shuruk",
+    "display": "בוּ",
+    "spokenForm": "ווּ",
+    "letter": "ב",
+    "nikud": "shuruk",
+    "sound": "v_u",
+    "distractors": [
+      "bet-shuruk",
+      "vet-kamatz",
+      "vet-hirik"
+    ]
+  },
+  {
+    "id": "vet-kubutz",
+    "display": "בֻ",
+    "spokenForm": "ווּ",
+    "letter": "ב",
+    "nikud": "kubutz",
+    "sound": "v_u",
+    "distractors": [
+      "bet-kubutz",
+      "vet-kamatz",
+      "vet-hirik"
+    ]
+  },
+  {
+    "id": "gimel-shuruk",
+    "display": "גּוּ",
+    "spokenForm": "גוּ",
+    "letter": "ג",
+    "nikud": "shuruk",
+    "sound": "g_u",
+    "distractors": [
+      "nun-shuruk",
+      "gimel-kamatz",
+      "gimel-hirik"
+    ]
+  },
+  {
+    "id": "gimel-kubutz",
+    "display": "גֻּ",
+    "spokenForm": "גוּ",
+    "letter": "ג",
+    "nikud": "kubutz",
+    "sound": "g_u",
+    "distractors": [
+      "nun-kubutz",
+      "gimel-kamatz",
+      "gimel-hirik"
+    ]
+  },
+  {
+    "id": "dalet-shuruk",
+    "display": "דּוּ",
+    "spokenForm": "דוּ",
+    "letter": "ד",
+    "nikud": "shuruk",
+    "sound": "d_u",
+    "distractors": [
+      "khaf-shuruk",
+      "dalet-kamatz",
+      "dalet-hirik"
+    ]
+  },
+  {
+    "id": "dalet-kubutz",
+    "display": "דֻּ",
+    "spokenForm": "דוּ",
+    "letter": "ד",
+    "nikud": "kubutz",
+    "sound": "d_u",
+    "distractors": [
+      "khaf-kubutz",
+      "dalet-kamatz",
+      "dalet-hirik"
+    ]
+  },
+  {
+    "id": "he-shuruk",
+    "display": "הוּ",
+    "letter": "ה",
+    "nikud": "shuruk",
+    "sound": "h_u",
+    "distractors": [
+      "het-shuruk",
+      "he-kamatz",
+      "he-hirik"
+    ]
+  },
+  {
+    "id": "he-kubutz",
+    "display": "הֻ",
+    "spokenForm": "הוּ",
+    "letter": "ה",
+    "nikud": "kubutz",
+    "sound": "h_u",
+    "distractors": [
+      "het-kubutz",
+      "he-kamatz",
+      "he-hirik"
+    ]
+  },
+  {
+    "id": "vav-shuruk",
+    "display": "ווּ",
+    "letter": "ו",
+    "nikud": "shuruk",
+    "sound": "v_u",
+    "distractors": [
+      "resh-shuruk",
+      "vav-kamatz",
+      "vav-hirik"
+    ]
+  },
+  {
+    "id": "vav-kubutz",
+    "display": "וֻ",
+    "spokenForm": "ווּ",
+    "letter": "ו",
+    "nikud": "kubutz",
+    "sound": "v_u",
+    "distractors": [
+      "resh-kubutz",
+      "vav-kamatz",
+      "vav-hirik"
+    ]
+  },
+  {
+    "id": "zayin-shuruk",
+    "display": "זוּ",
+    "letter": "ז",
+    "nikud": "shuruk",
+    "sound": "z_u",
+    "distractors": [
+      "gimel-shuruk",
+      "zayin-kamatz",
+      "zayin-hirik"
+    ]
+  },
+  {
+    "id": "zayin-kubutz",
+    "display": "זֻ",
+    "spokenForm": "זוּ",
+    "letter": "ז",
+    "nikud": "kubutz",
+    "sound": "z_u",
+    "distractors": [
+      "gimel-kubutz",
+      "zayin-kamatz",
+      "zayin-hirik"
+    ]
+  },
+  {
+    "id": "het-shuruk",
+    "display": "חוּ",
+    "letter": "ח",
+    "nikud": "shuruk",
+    "sound": "x_u",
+    "distractors": [
+      "he-shuruk",
+      "het-kamatz",
+      "het-hirik"
+    ]
+  },
+  {
+    "id": "het-kubutz",
+    "display": "חֻ",
+    "spokenForm": "חוּ",
+    "letter": "ח",
+    "nikud": "kubutz",
+    "sound": "x_u",
+    "distractors": [
+      "he-kubutz",
+      "het-kamatz",
+      "het-hirik"
+    ]
+  },
+  {
+    "id": "tet-shuruk",
+    "display": "טוּ",
+    "letter": "ט",
+    "nikud": "shuruk",
+    "sound": "t_u",
+    "distractors": [
+      "mem-shuruk",
+      "tet-kamatz",
+      "tet-hirik"
+    ]
+  },
+  {
+    "id": "tet-kubutz",
+    "display": "טֻ",
+    "spokenForm": "טוּ",
+    "letter": "ט",
+    "nikud": "kubutz",
+    "sound": "t_u",
+    "distractors": [
+      "mem-kubutz",
+      "tet-kamatz",
+      "tet-hirik"
+    ]
+  },
+  {
+    "id": "yod-shuruk",
+    "display": "יוּ",
+    "letter": "י",
+    "nikud": "shuruk",
+    "sound": "y_u",
+    "distractors": [
+      "vav-shuruk",
+      "yod-kamatz",
+      "yod-hirik"
+    ]
+  },
+  {
+    "id": "yod-kubutz",
+    "display": "יֻ",
+    "spokenForm": "יוּ",
+    "letter": "י",
+    "nikud": "kubutz",
+    "sound": "y_u",
+    "distractors": [
+      "vav-kubutz",
+      "yod-kamatz",
+      "yod-hirik"
+    ]
+  },
+  {
+    "id": "kaf-shuruk",
+    "display": "כּוּ",
+    "letter": "כ",
+    "nikud": "shuruk",
+    "sound": "k_u",
+    "distractors": [
+      "bet-shuruk",
+      "kaf-kamatz",
+      "kaf-hirik"
+    ]
+  },
+  {
+    "id": "kaf-kubutz",
+    "display": "כֻּ",
+    "spokenForm": "כּוּ",
+    "letter": "כ",
+    "nikud": "kubutz",
+    "sound": "k_u",
+    "distractors": [
+      "bet-kubutz",
+      "kaf-kamatz",
+      "kaf-hirik"
+    ]
+  },
+  {
+    "id": "khaf-shuruk",
+    "display": "כוּ",
+    "spokenForm": "חוּ",
+    "letter": "כ",
+    "nikud": "shuruk",
+    "sound": "x_u",
+    "distractors": [
+      "dalet-shuruk",
+      "khaf-kamatz",
+      "khaf-hirik"
+    ]
+  },
+  {
+    "id": "khaf-kubutz",
+    "display": "כֻ",
+    "spokenForm": "חוּ",
+    "letter": "כ",
+    "nikud": "kubutz",
+    "sound": "x_u",
+    "distractors": [
+      "dalet-kubutz",
+      "khaf-kamatz",
+      "khaf-hirik"
+    ]
+  },
+  {
+    "id": "lamed-shuruk",
+    "display": "לוּ",
+    "letter": "ל",
+    "nikud": "shuruk",
+    "sound": "l_u",
+    "distractors": [
+      "nun-shuruk",
+      "lamed-kamatz",
+      "lamed-hirik"
+    ]
+  },
+  {
+    "id": "lamed-kubutz",
+    "display": "לֻ",
+    "spokenForm": "לוּ",
+    "letter": "ל",
+    "nikud": "kubutz",
+    "sound": "l_u",
+    "distractors": [
+      "nun-kubutz",
+      "lamed-kamatz",
+      "lamed-hirik"
+    ]
+  },
+  {
+    "id": "mem-shuruk",
+    "display": "מוּ",
+    "letter": "מ",
+    "nikud": "shuruk",
+    "sound": "m_u",
+    "distractors": [
+      "samekh-shuruk",
+      "mem-kamatz",
+      "mem-hirik"
+    ]
+  },
+  {
+    "id": "mem-kubutz",
+    "display": "מֻ",
+    "spokenForm": "מוּ",
+    "letter": "מ",
+    "nikud": "kubutz",
+    "sound": "m_u",
+    "distractors": [
+      "samekh-kubutz",
+      "mem-kamatz",
+      "mem-hirik"
+    ]
+  },
+  {
+    "id": "nun-shuruk",
+    "display": "נוּ",
+    "letter": "נ",
+    "nikud": "shuruk",
+    "sound": "n_u",
+    "distractors": [
+      "gimel-shuruk",
+      "nun-kamatz",
+      "nun-hirik"
+    ]
+  },
+  {
+    "id": "nun-kubutz",
+    "display": "נֻ",
+    "spokenForm": "נוּ",
+    "letter": "נ",
+    "nikud": "kubutz",
+    "sound": "n_u",
+    "distractors": [
+      "gimel-kubutz",
+      "nun-kamatz",
+      "nun-hirik"
+    ]
+  },
+  {
+    "id": "samekh-shuruk",
+    "display": "סוּ",
+    "letter": "ס",
+    "nikud": "shuruk",
+    "sound": "s_u",
+    "distractors": [
+      "mem-shuruk",
+      "samekh-kamatz",
+      "samekh-hirik"
+    ]
+  },
+  {
+    "id": "samekh-kubutz",
+    "display": "סֻ",
+    "spokenForm": "סוּ",
+    "letter": "ס",
+    "nikud": "kubutz",
+    "sound": "s_u",
+    "distractors": [
+      "mem-kubutz",
+      "samekh-kamatz",
+      "samekh-hirik"
+    ]
+  },
+  {
+    "id": "ayin-shuruk",
+    "display": "עוּ",
+    "letter": "ע",
+    "nikud": "shuruk",
+    "sound": "_u",
+    "distractors": [
+      "tsadi-shuruk",
+      "ayin-kamatz",
+      "ayin-hirik"
+    ]
+  },
+  {
+    "id": "ayin-kubutz",
+    "display": "עֻ",
+    "spokenForm": "עוּ",
+    "letter": "ע",
+    "nikud": "kubutz",
+    "sound": "_u",
+    "distractors": [
+      "tsadi-kubutz",
+      "ayin-kamatz",
+      "ayin-hirik"
+    ]
+  },
+  {
+    "id": "pe-shuruk",
+    "display": "פּוּ",
+    "letter": "פ",
+    "nikud": "shuruk",
+    "sound": "p_u",
+    "distractors": [
+      "bet-shuruk",
+      "pe-kamatz",
+      "pe-hirik"
+    ]
+  },
+  {
+    "id": "pe-kubutz",
+    "display": "פֻּ",
+    "spokenForm": "פּוּ",
+    "letter": "פ",
+    "nikud": "kubutz",
+    "sound": "p_u",
+    "distractors": [
+      "bet-kubutz",
+      "pe-kamatz",
+      "pe-hirik"
+    ]
+  },
+  {
+    "id": "fe-shuruk",
+    "display": "פוּ",
+    "spokenForm": "פוּא",
+    "letter": "פ",
+    "nikud": "shuruk",
+    "sound": "f_u",
+    "distractors": [
+      "khaf-shuruk",
+      "fe-kamatz",
+      "fe-hirik"
+    ]
+  },
+  {
+    "id": "fe-kubutz",
+    "display": "פֻ",
+    "spokenForm": "פוּא",
+    "letter": "פ",
+    "nikud": "kubutz",
+    "sound": "f_u",
+    "distractors": [
+      "khaf-kubutz",
+      "fe-kamatz",
+      "fe-hirik"
+    ]
+  },
+  {
+    "id": "tsadi-shuruk",
+    "display": "צוּ",
+    "spokenForm": "צוּא",
+    "letter": "צ",
+    "nikud": "shuruk",
+    "sound": "ts_u",
+    "distractors": [
+      "ayin-shuruk",
+      "tsadi-kamatz",
+      "tsadi-hirik"
+    ]
+  },
+  {
+    "id": "tsadi-kubutz",
+    "display": "צֻ",
+    "spokenForm": "צוּא",
+    "letter": "צ",
+    "nikud": "kubutz",
+    "sound": "ts_u",
+    "distractors": [
+      "ayin-kubutz",
+      "tsadi-kamatz",
+      "tsadi-hirik"
+    ]
+  },
+  {
+    "id": "qof-shuruk",
+    "display": "קוּ",
+    "spokenForm": "כּוּ",
+    "letter": "ק",
+    "nikud": "shuruk",
+    "sound": "k_u",
+    "distractors": [
+      "he-shuruk",
+      "qof-kamatz",
+      "qof-hirik"
+    ]
+  },
+  {
+    "id": "qof-kubutz",
+    "display": "קֻ",
+    "spokenForm": "כּוּ",
+    "letter": "ק",
+    "nikud": "kubutz",
+    "sound": "k_u",
+    "distractors": [
+      "he-kubutz",
+      "qof-kamatz",
+      "qof-hirik"
+    ]
+  },
+  {
+    "id": "resh-shuruk",
+    "display": "רוּ",
+    "letter": "ר",
+    "nikud": "shuruk",
+    "sound": "r_u",
+    "distractors": [
+      "dalet-shuruk",
+      "resh-kamatz",
+      "resh-hirik"
+    ]
+  },
+  {
+    "id": "resh-kubutz",
+    "display": "רֻ",
+    "spokenForm": "רוּ",
+    "letter": "ר",
+    "nikud": "kubutz",
+    "sound": "r_u",
+    "distractors": [
+      "dalet-kubutz",
+      "resh-kamatz",
+      "resh-hirik"
+    ]
+  },
+  {
+    "id": "shin-shuruk",
+    "display": "שׁוּ",
+    "letter": "ש",
+    "nikud": "shuruk",
+    "sound": "sh_u",
+    "distractors": [
+      "samekh-shuruk",
+      "shin-kamatz",
+      "shin-hirik"
+    ]
+  },
+  {
+    "id": "shin-kubutz",
+    "display": "שֻׁ",
+    "spokenForm": "שׁוּ",
+    "letter": "ש",
+    "nikud": "kubutz",
+    "sound": "sh_u",
+    "distractors": [
+      "samekh-kubutz",
+      "shin-kamatz",
+      "shin-hirik"
+    ]
+  },
+  {
+    "id": "sin-shuruk",
+    "display": "שׂוּ",
+    "letter": "ש",
+    "nikud": "shuruk",
+    "sound": "s_u",
+    "distractors": [
+      "shin-shuruk",
+      "sin-kamatz",
+      "sin-hirik"
+    ]
+  },
+  {
+    "id": "sin-kubutz",
+    "display": "שֻׂ",
+    "spokenForm": "שׂוּ",
+    "letter": "ש",
+    "nikud": "kubutz",
+    "sound": "s_u",
+    "distractors": [
+      "shin-kubutz",
+      "sin-kamatz",
+      "sin-hirik"
+    ]
+  },
+  {
+    "id": "tav-shuruk",
+    "display": "תּוּ",
+    "spokenForm": "טוּ",
+    "letter": "ת",
+    "nikud": "shuruk",
+    "sound": "t_u",
+    "distractors": [
+      "dalet-shuruk",
+      "tav-kamatz",
+      "tav-hirik"
+    ]
+  },
+  {
+    "id": "tav-kubutz",
+    "display": "תֻּ",
+    "spokenForm": "טוּ",
+    "letter": "ת",
+    "nikud": "kubutz",
+    "sound": "t_u",
+    "distractors": [
+      "dalet-kubutz",
+      "tav-kamatz",
+      "tav-hirik"
+    ]
+  }
+]

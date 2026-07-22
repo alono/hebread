@@ -1,0 +1,655 @@
+[
+  {
+    "id": "alef-hirik",
+    "display": "אִ",
+    "spokenForm": "אִה",
+    "letter": "א",
+    "nikud": "hirik",
+    "sound": "_i",
+    "distractors": [
+      "he-hirik",
+      "alef-kamatz",
+      "he-kamatz"
+    ]
+  },
+  {
+    "id": "alef-hirikMale",
+    "display": "אִי",
+    "letter": "א",
+    "nikud": "hirikMale",
+    "sound": "_i",
+    "distractors": [
+      "he-hirikMale",
+      "alef-kamatz",
+      "he-kamatz"
+    ]
+  },
+  {
+    "id": "bet-hirik",
+    "display": "בִּ",
+    "spokenForm": "בִּה",
+    "letter": "ב",
+    "nikud": "hirik",
+    "sound": "b_i",
+    "distractors": [
+      "kaf-hirik",
+      "bet-kamatz",
+      "pe-hirik"
+    ]
+  },
+  {
+    "id": "bet-hirikMale",
+    "display": "בִּי",
+    "letter": "ב",
+    "nikud": "hirikMale",
+    "sound": "b_i",
+    "distractors": [
+      "kaf-hirikMale",
+      "bet-kamatz",
+      "pe-hirikMale"
+    ]
+  },
+  {
+    "id": "vet-hirik",
+    "display": "בִ",
+    "spokenForm": "בִה",
+    "letter": "ב",
+    "nikud": "hirik",
+    "sound": "v_i",
+    "distractors": [
+      "bet-hirik",
+      "vet-kamatz",
+      "khaf-hirik"
+    ]
+  },
+  {
+    "id": "vet-hirikMale",
+    "display": "בִי",
+    "letter": "ב",
+    "nikud": "hirikMale",
+    "sound": "v_i",
+    "distractors": [
+      "bet-hirikMale",
+      "vet-kamatz",
+      "khaf-hirikMale"
+    ]
+  },
+  {
+    "id": "gimel-hirik",
+    "display": "גִּ",
+    "spokenForm": "גִה",
+    "letter": "ג",
+    "nikud": "hirik",
+    "sound": "g_i",
+    "distractors": [
+      "nun-hirik",
+      "gimel-kamatz",
+      "zayin-hirik"
+    ]
+  },
+  {
+    "id": "gimel-hirikMale",
+    "display": "גִּי",
+    "spokenForm": "גִי",
+    "letter": "ג",
+    "nikud": "hirikMale",
+    "sound": "g_i",
+    "distractors": [
+      "nun-hirikMale",
+      "gimel-kamatz",
+      "zayin-hirikMale"
+    ]
+  },
+  {
+    "id": "dalet-hirik",
+    "display": "דִּ",
+    "spokenForm": "דִה",
+    "letter": "ד",
+    "nikud": "hirik",
+    "sound": "d_i",
+    "distractors": [
+      "khaf-hirik",
+      "dalet-kamatz",
+      "resh-hirik"
+    ]
+  },
+  {
+    "id": "dalet-hirikMale",
+    "display": "דִּי",
+    "spokenForm": "דִי",
+    "letter": "ד",
+    "nikud": "hirikMale",
+    "sound": "d_i",
+    "distractors": [
+      "khaf-hirikMale",
+      "dalet-kamatz",
+      "resh-hirikMale"
+    ]
+  },
+  {
+    "id": "he-hirik",
+    "display": "הִ",
+    "spokenForm": "הִה",
+    "letter": "ה",
+    "nikud": "hirik",
+    "sound": "h_i",
+    "distractors": [
+      "het-hirik",
+      "he-kamatz",
+      "tav-hirik"
+    ]
+  },
+  {
+    "id": "he-hirikMale",
+    "display": "הִי",
+    "letter": "ה",
+    "nikud": "hirikMale",
+    "sound": "h_i",
+    "distractors": [
+      "het-hirikMale",
+      "he-kamatz",
+      "tav-hirikMale"
+    ]
+  },
+  {
+    "id": "vav-hirik",
+    "display": "וִ",
+    "spokenForm": "וִה",
+    "letter": "ו",
+    "nikud": "hirik",
+    "sound": "v_i",
+    "distractors": [
+      "resh-hirik",
+      "vav-kamatz",
+      "yod-hirik"
+    ]
+  },
+  {
+    "id": "vav-hirikMale",
+    "display": "וִי",
+    "letter": "ו",
+    "nikud": "hirikMale",
+    "sound": "v_i",
+    "distractors": [
+      "resh-hirikMale",
+      "vav-kamatz",
+      "yod-hirikMale"
+    ]
+  },
+  {
+    "id": "zayin-hirik",
+    "display": "זִ",
+    "spokenForm": "זִה",
+    "letter": "ז",
+    "nikud": "hirik",
+    "sound": "z_i",
+    "distractors": [
+      "gimel-hirik",
+      "zayin-kamatz",
+      "nun-hirik"
+    ]
+  },
+  {
+    "id": "zayin-hirikMale",
+    "display": "זִי",
+    "letter": "ז",
+    "nikud": "hirikMale",
+    "sound": "z_i",
+    "distractors": [
+      "gimel-hirikMale",
+      "zayin-kamatz",
+      "nun-hirikMale"
+    ]
+  },
+  {
+    "id": "het-hirik",
+    "display": "חִ",
+    "spokenForm": "חִה",
+    "letter": "ח",
+    "nikud": "hirik",
+    "sound": "x_i",
+    "distractors": [
+      "he-hirik",
+      "het-kamatz",
+      "tav-hirik"
+    ]
+  },
+  {
+    "id": "het-hirikMale",
+    "display": "חִי",
+    "letter": "ח",
+    "nikud": "hirikMale",
+    "sound": "x_i",
+    "distractors": [
+      "he-hirikMale",
+      "het-kamatz",
+      "tav-hirikMale"
+    ]
+  },
+  {
+    "id": "tet-hirik",
+    "display": "טִ",
+    "spokenForm": "טִה",
+    "letter": "ט",
+    "nikud": "hirik",
+    "sound": "t_i",
+    "distractors": [
+      "mem-hirik",
+      "tet-kamatz",
+      "samekh-hirik"
+    ]
+  },
+  {
+    "id": "tet-hirikMale",
+    "display": "טִי",
+    "letter": "ט",
+    "nikud": "hirikMale",
+    "sound": "t_i",
+    "distractors": [
+      "mem-hirikMale",
+      "tet-kamatz",
+      "samekh-hirikMale"
+    ]
+  },
+  {
+    "id": "yod-hirik",
+    "display": "יִ",
+    "spokenForm": "יִה",
+    "letter": "י",
+    "nikud": "hirik",
+    "sound": "y_i",
+    "distractors": [
+      "vav-hirik",
+      "yod-kamatz",
+      "zayin-hirik"
+    ]
+  },
+  {
+    "id": "yod-hirikMale",
+    "display": "יִי",
+    "letter": "י",
+    "nikud": "hirikMale",
+    "sound": "y_i",
+    "distractors": [
+      "vav-hirikMale",
+      "yod-kamatz",
+      "zayin-hirikMale"
+    ]
+  },
+  {
+    "id": "kaf-hirik",
+    "display": "כִּ",
+    "spokenForm": "כִּה",
+    "letter": "כ",
+    "nikud": "hirik",
+    "sound": "k_i",
+    "distractors": [
+      "bet-hirik",
+      "kaf-kamatz",
+      "khaf-hirik"
+    ]
+  },
+  {
+    "id": "kaf-hirikMale",
+    "display": "כִּי",
+    "letter": "כ",
+    "nikud": "hirikMale",
+    "sound": "k_i",
+    "distractors": [
+      "bet-hirikMale",
+      "kaf-kamatz",
+      "khaf-hirikMale"
+    ]
+  },
+  {
+    "id": "khaf-hirik",
+    "display": "כִ",
+    "spokenForm": "כִה",
+    "letter": "כ",
+    "nikud": "hirik",
+    "sound": "x_i",
+    "distractors": [
+      "dalet-hirik",
+      "khaf-kamatz",
+      "resh-hirik"
+    ]
+  },
+  {
+    "id": "khaf-hirikMale",
+    "display": "כִי",
+    "letter": "כ",
+    "nikud": "hirikMale",
+    "sound": "x_i",
+    "distractors": [
+      "dalet-hirikMale",
+      "khaf-kamatz",
+      "resh-hirikMale"
+    ]
+  },
+  {
+    "id": "lamed-hirik",
+    "display": "לִ",
+    "spokenForm": "לִה",
+    "letter": "ל",
+    "nikud": "hirik",
+    "sound": "l_i",
+    "distractors": [
+      "nun-hirik",
+      "lamed-kamatz",
+      "vav-hirik"
+    ]
+  },
+  {
+    "id": "lamed-hirikMale",
+    "display": "לִי",
+    "letter": "ל",
+    "nikud": "hirikMale",
+    "sound": "l_i",
+    "distractors": [
+      "nun-hirikMale",
+      "lamed-kamatz",
+      "vav-hirikMale"
+    ]
+  },
+  {
+    "id": "mem-hirik",
+    "display": "מִ",
+    "spokenForm": "מִה",
+    "letter": "מ",
+    "nikud": "hirik",
+    "sound": "m_i",
+    "distractors": [
+      "samekh-hirik",
+      "mem-kamatz",
+      "tet-hirik"
+    ]
+  },
+  {
+    "id": "mem-hirikMale",
+    "display": "מִי",
+    "letter": "מ",
+    "nikud": "hirikMale",
+    "sound": "m_i",
+    "distractors": [
+      "samekh-hirikMale",
+      "mem-kamatz",
+      "tet-hirikMale"
+    ]
+  },
+  {
+    "id": "nun-hirik",
+    "display": "נִ",
+    "spokenForm": "נִה",
+    "letter": "נ",
+    "nikud": "hirik",
+    "sound": "n_i",
+    "distractors": [
+      "gimel-hirik",
+      "nun-kamatz",
+      "vav-hirik"
+    ]
+  },
+  {
+    "id": "nun-hirikMale",
+    "display": "נִי",
+    "letter": "נ",
+    "nikud": "hirikMale",
+    "sound": "n_i",
+    "distractors": [
+      "gimel-hirikMale",
+      "nun-kamatz",
+      "vav-hirikMale"
+    ]
+  },
+  {
+    "id": "samekh-hirik",
+    "display": "סִ",
+    "spokenForm": "סִה",
+    "letter": "ס",
+    "nikud": "hirik",
+    "sound": "s_i",
+    "distractors": [
+      "mem-hirik",
+      "samekh-kamatz",
+      "tet-hirik"
+    ]
+  },
+  {
+    "id": "samekh-hirikMale",
+    "display": "סִי",
+    "letter": "ס",
+    "nikud": "hirikMale",
+    "sound": "s_i",
+    "distractors": [
+      "mem-hirikMale",
+      "samekh-kamatz",
+      "tet-hirikMale"
+    ]
+  },
+  {
+    "id": "ayin-hirik",
+    "display": "עִ",
+    "spokenForm": "עִה",
+    "letter": "ע",
+    "nikud": "hirik",
+    "sound": "_i",
+    "distractors": [
+      "tsadi-hirik",
+      "ayin-kamatz",
+      "tsadi-kamatz"
+    ]
+  },
+  {
+    "id": "ayin-hirikMale",
+    "display": "עִי",
+    "letter": "ע",
+    "nikud": "hirikMale",
+    "sound": "_i",
+    "distractors": [
+      "tsadi-hirikMale",
+      "ayin-kamatz",
+      "tsadi-kamatz"
+    ]
+  },
+  {
+    "id": "pe-hirik",
+    "display": "פִּ",
+    "spokenForm": "פִּה",
+    "letter": "פ",
+    "nikud": "hirik",
+    "sound": "p_i",
+    "distractors": [
+      "bet-hirik",
+      "pe-kamatz",
+      "fe-hirik"
+    ]
+  },
+  {
+    "id": "pe-hirikMale",
+    "display": "פִּי",
+    "letter": "פ",
+    "nikud": "hirikMale",
+    "sound": "p_i",
+    "distractors": [
+      "bet-hirikMale",
+      "pe-kamatz",
+      "fe-hirikMale"
+    ]
+  },
+  {
+    "id": "fe-hirik",
+    "display": "פִ",
+    "spokenForm": "פִה",
+    "letter": "פ",
+    "nikud": "hirik",
+    "sound": "f_i",
+    "distractors": [
+      "khaf-hirik",
+      "fe-kamatz",
+      "pe-hirik"
+    ]
+  },
+  {
+    "id": "fe-hirikMale",
+    "display": "פִי",
+    "letter": "פ",
+    "nikud": "hirikMale",
+    "sound": "f_i",
+    "distractors": [
+      "khaf-hirikMale",
+      "fe-kamatz",
+      "pe-hirikMale"
+    ]
+  },
+  {
+    "id": "tsadi-hirik",
+    "display": "צִ",
+    "spokenForm": "צִה",
+    "letter": "צ",
+    "nikud": "hirik",
+    "sound": "ts_i",
+    "distractors": [
+      "ayin-hirik",
+      "tsadi-kamatz",
+      "samekh-hirik"
+    ]
+  },
+  {
+    "id": "tsadi-hirikMale",
+    "display": "צִי",
+    "letter": "צ",
+    "nikud": "hirikMale",
+    "sound": "ts_i",
+    "distractors": [
+      "ayin-hirikMale",
+      "tsadi-kamatz",
+      "samekh-hirikMale"
+    ]
+  },
+  {
+    "id": "qof-hirik",
+    "display": "קִ",
+    "spokenForm": "קִה",
+    "letter": "ק",
+    "nikud": "hirik",
+    "sound": "k_i",
+    "distractors": [
+      "he-hirik",
+      "qof-kamatz",
+      "he-kamatz"
+    ]
+  },
+  {
+    "id": "qof-hirikMale",
+    "display": "קִי",
+    "letter": "ק",
+    "nikud": "hirikMale",
+    "sound": "k_i",
+    "distractors": [
+      "he-hirikMale",
+      "qof-kamatz",
+      "he-kamatz"
+    ]
+  },
+  {
+    "id": "resh-hirik",
+    "display": "רִ",
+    "spokenForm": "רִה",
+    "letter": "ר",
+    "nikud": "hirik",
+    "sound": "r_i",
+    "distractors": [
+      "dalet-hirik",
+      "resh-kamatz",
+      "vav-hirik"
+    ]
+  },
+  {
+    "id": "resh-hirikMale",
+    "display": "רִי",
+    "letter": "ר",
+    "nikud": "hirikMale",
+    "sound": "r_i",
+    "distractors": [
+      "dalet-hirikMale",
+      "resh-kamatz",
+      "vav-hirikMale"
+    ]
+  },
+  {
+    "id": "shin-hirik",
+    "display": "שִׁ",
+    "spokenForm": "שִׁה",
+    "letter": "ש",
+    "nikud": "hirik",
+    "sound": "sh_i",
+    "distractors": [
+      "samekh-hirik",
+      "shin-kamatz",
+      "samekh-kamatz"
+    ]
+  },
+  {
+    "id": "shin-hirikMale",
+    "display": "שִׁי",
+    "letter": "ש",
+    "nikud": "hirikMale",
+    "sound": "sh_i",
+    "distractors": [
+      "samekh-hirikMale",
+      "shin-kamatz",
+      "samekh-kamatz"
+    ]
+  },
+  {
+    "id": "sin-hirik",
+    "display": "שִׂ",
+    "spokenForm": "שִׂה",
+    "letter": "ש",
+    "nikud": "hirik",
+    "sound": "s_i",
+    "distractors": [
+      "shin-hirik",
+      "sin-kamatz",
+      "shin-kamatz"
+    ]
+  },
+  {
+    "id": "sin-hirikMale",
+    "display": "שִׂי",
+    "letter": "ש",
+    "nikud": "hirikMale",
+    "sound": "s_i",
+    "distractors": [
+      "shin-hirikMale",
+      "sin-kamatz",
+      "shin-kamatz"
+    ]
+  },
+  {
+    "id": "tav-hirik",
+    "display": "תִּ",
+    "spokenForm": "תִה",
+    "letter": "ת",
+    "nikud": "hirik",
+    "sound": "t_i",
+    "distractors": [
+      "dalet-hirik",
+      "tav-kamatz",
+      "he-hirik"
+    ]
+  },
+  {
+    "id": "tav-hirikMale",
+    "display": "תִּי",
+    "spokenForm": "תִי",
+    "letter": "ת",
+    "nikud": "hirikMale",
+    "sound": "t_i",
+    "distractors": [
+      "dalet-hirikMale",
+      "tav-kamatz",
+      "he-hirikMale"
+    ]
+  }
+]

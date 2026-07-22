@@ -1,0 +1,366 @@
+[
+  {
+    "id": "alef-shvaNa",
+    "display": "אְ",
+    "spokenForm": "אֵה",
+    "spokenRate": "+100%",
+    "letter": "א",
+    "nikud": "shvaNa",
+    "sound": "_e",
+    "distractors": [
+      "he-shvaNa",
+      "alef-kamatz",
+      "alef-hirik"
+    ]
+  },
+  {
+    "id": "bet-shvaNa",
+    "display": "בְּ",
+    "spokenForm": "בֵּה",
+    "spokenRate": "+100%",
+    "letter": "ב",
+    "nikud": "shvaNa",
+    "sound": "b_e",
+    "distractors": [
+      "kaf-shvaNa",
+      "bet-kamatz",
+      "bet-hirik"
+    ]
+  },
+  {
+    "id": "vet-shvaNa",
+    "display": "בְ",
+    "spokenForm": "בֵה",
+    "spokenRate": "+100%",
+    "letter": "ב",
+    "nikud": "shvaNa",
+    "sound": "v_e",
+    "distractors": [
+      "bet-shvaNa",
+      "vet-kamatz",
+      "vet-hirik"
+    ]
+  },
+  {
+    "id": "gimel-shvaNa",
+    "display": "גְּ",
+    "spokenForm": "גֵה",
+    "spokenRate": "+100%",
+    "letter": "ג",
+    "nikud": "shvaNa",
+    "sound": "g_e",
+    "distractors": [
+      "nun-shvaNa",
+      "gimel-kamatz",
+      "gimel-hirik"
+    ]
+  },
+  {
+    "id": "dalet-shvaNa",
+    "display": "דְּ",
+    "spokenForm": "דֵה",
+    "spokenRate": "+100%",
+    "letter": "ד",
+    "nikud": "shvaNa",
+    "sound": "d_e",
+    "distractors": [
+      "khaf-shvaNa",
+      "dalet-kamatz",
+      "dalet-hirik"
+    ]
+  },
+  {
+    "id": "he-shvaNa",
+    "display": "הְ",
+    "spokenForm": "הֵה",
+    "spokenRate": "+100%",
+    "letter": "ה",
+    "nikud": "shvaNa",
+    "sound": "h_e",
+    "distractors": [
+      "het-shvaNa",
+      "he-kamatz",
+      "he-hirik"
+    ]
+  },
+  {
+    "id": "vav-shvaNa",
+    "display": "וְ",
+    "spokenForm": "וֵה",
+    "spokenRate": "+100%",
+    "letter": "ו",
+    "nikud": "shvaNa",
+    "sound": "v_e",
+    "distractors": [
+      "resh-shvaNa",
+      "vav-kamatz",
+      "vav-hirik"
+    ]
+  },
+  {
+    "id": "zayin-shvaNa",
+    "display": "זְ",
+    "spokenForm": "זֵה",
+    "spokenRate": "+100%",
+    "letter": "ז",
+    "nikud": "shvaNa",
+    "sound": "z_e",
+    "distractors": [
+      "gimel-shvaNa",
+      "zayin-kamatz",
+      "zayin-hirik"
+    ]
+  },
+  {
+    "id": "het-shvaNa",
+    "display": "חְ",
+    "spokenForm": "חֵה",
+    "spokenRate": "+100%",
+    "letter": "ח",
+    "nikud": "shvaNa",
+    "sound": "x_e",
+    "distractors": [
+      "he-shvaNa",
+      "het-kamatz",
+      "het-hirik"
+    ]
+  },
+  {
+    "id": "tet-shvaNa",
+    "display": "טְ",
+    "spokenForm": "טֵה",
+    "spokenRate": "+100%",
+    "letter": "ט",
+    "nikud": "shvaNa",
+    "sound": "t_e",
+    "distractors": [
+      "mem-shvaNa",
+      "tet-kamatz",
+      "tet-hirik"
+    ]
+  },
+  {
+    "id": "yod-shvaNa",
+    "display": "יְ",
+    "spokenForm": "יֵה",
+    "spokenRate": "+100%",
+    "letter": "י",
+    "nikud": "shvaNa",
+    "sound": "y_e",
+    "distractors": [
+      "vav-shvaNa",
+      "yod-kamatz",
+      "yod-hirik"
+    ]
+  },
+  {
+    "id": "kaf-shvaNa",
+    "display": "כְּ",
+    "spokenForm": "כֵּה",
+    "spokenRate": "+100%",
+    "letter": "כ",
+    "nikud": "shvaNa",
+    "sound": "k_e",
+    "distractors": [
+      "bet-shvaNa",
+      "kaf-kamatz",
+      "kaf-hirik"
+    ]
+  },
+  {
+    "id": "khaf-shvaNa",
+    "display": "כְ",
+    "spokenForm": "כֵה",
+    "spokenRate": "+100%",
+    "letter": "כ",
+    "nikud": "shvaNa",
+    "sound": "x_e",
+    "distractors": [
+      "dalet-shvaNa",
+      "khaf-kamatz",
+      "khaf-hirik"
+    ]
+  },
+  {
+    "id": "lamed-shvaNa",
+    "display": "לְ",
+    "spokenForm": "לֵה",
+    "spokenRate": "+100%",
+    "letter": "ל",
+    "nikud": "shvaNa",
+    "sound": "l_e",
+    "distractors": [
+      "nun-shvaNa",
+      "lamed-kamatz",
+      "lamed-hirik"
+    ]
+  },
+  {
+    "id": "mem-shvaNa",
+    "display": "מְ",
+    "spokenForm": "מֵה",
+    "spokenRate": "+100%",
+    "letter": "מ",
+    "nikud": "shvaNa",
+    "sound": "m_e",
+    "distractors": [
+      "samekh-shvaNa",
+      "mem-kamatz",
+      "mem-hirik"
+    ]
+  },
+  {
+    "id": "nun-shvaNa",
+    "display": "נְ",
+    "spokenForm": "נֵה",
+    "spokenRate": "+100%",
+    "letter": "נ",
+    "nikud": "shvaNa",
+    "sound": "n_e",
+    "distractors": [
+      "gimel-shvaNa",
+      "nun-kamatz",
+      "nun-hirik"
+    ]
+  },
+  {
+    "id": "samekh-shvaNa",
+    "display": "סְ",
+    "spokenForm": "סֵה",
+    "spokenRate": "+100%",
+    "letter": "ס",
+    "nikud": "shvaNa",
+    "sound": "s_e",
+    "distractors": [
+      "mem-shvaNa",
+      "samekh-kamatz",
+      "samekh-hirik"
+    ]
+  },
+  {
+    "id": "ayin-shvaNa",
+    "display": "עְ",
+    "spokenForm": "עֵה",
+    "spokenRate": "+100%",
+    "letter": "ע",
+    "nikud": "shvaNa",
+    "sound": "_e",
+    "distractors": [
+      "tsadi-shvaNa",
+      "ayin-kamatz",
+      "ayin-hirik"
+    ]
+  },
+  {
+    "id": "pe-shvaNa",
+    "display": "פְּ",
+    "spokenForm": "פֵּה",
+    "spokenRate": "+100%",
+    "letter": "פ",
+    "nikud": "shvaNa",
+    "sound": "p_e",
+    "distractors": [
+      "bet-shvaNa",
+      "pe-kamatz",
+      "pe-hirik"
+    ]
+  },
+  {
+    "id": "fe-shvaNa",
+    "display": "פְ",
+    "spokenForm": "פֵה",
+    "spokenRate": "+100%",
+    "letter": "פ",
+    "nikud": "shvaNa",
+    "sound": "f_e",
+    "distractors": [
+      "khaf-shvaNa",
+      "fe-kamatz",
+      "fe-hirik"
+    ]
+  },
+  {
+    "id": "tsadi-shvaNa",
+    "display": "צְ",
+    "spokenForm": "צֵה",
+    "spokenRate": "+100%",
+    "letter": "צ",
+    "nikud": "shvaNa",
+    "sound": "ts_e",
+    "distractors": [
+      "ayin-shvaNa",
+      "tsadi-kamatz",
+      "tsadi-hirik"
+    ]
+  },
+  {
+    "id": "qof-shvaNa",
+    "display": "קְ",
+    "spokenForm": "קֵה",
+    "spokenRate": "+100%",
+    "letter": "ק",
+    "nikud": "shvaNa",
+    "sound": "k_e",
+    "distractors": [
+      "he-shvaNa",
+      "qof-kamatz",
+      "qof-hirik"
+    ]
+  },
+  {
+    "id": "resh-shvaNa",
+    "display": "רְ",
+    "spokenForm": "רֵה",
+    "spokenRate": "+100%",
+    "letter": "ר",
+    "nikud": "shvaNa",
+    "sound": "r_e",
+    "distractors": [
+      "dalet-shvaNa",
+      "resh-kamatz",
+      "resh-hirik"
+    ]
+  },
+  {
+    "id": "shin-shvaNa",
+    "display": "שְׁ",
+    "spokenForm": "שֵׁה",
+    "spokenRate": "+100%",
+    "letter": "ש",
+    "nikud": "shvaNa",
+    "sound": "sh_e",
+    "distractors": [
+      "samekh-shvaNa",
+      "shin-kamatz",
+      "shin-hirik"
+    ]
+  },
+  {
+    "id": "sin-shvaNa",
+    "display": "שְׂ",
+    "spokenForm": "שֵׂה",
+    "spokenRate": "+100%",
+    "letter": "ש",
+    "nikud": "shvaNa",
+    "sound": "s_e",
+    "distractors": [
+      "shin-shvaNa",
+      "sin-kamatz",
+      "sin-hirik"
+    ]
+  },
+  {
+    "id": "tav-shvaNa",
+    "display": "תְּ",
+    "spokenForm": "תֵה",
+    "spokenRate": "+100%",
+    "letter": "ת",
+    "nikud": "shvaNa",
+    "sound": "t_e",
+    "distractors": [
+      "dalet-shvaNa",
+      "tav-kamatz",
+      "tav-hirik"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="קוֹרֵא עִבְרִית">
+  <rect width="512" height="512" fill="#8fc7ff" />
+  <rect width="512" height="512" fill="url(#sky)" />
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bfe0ff" />
+      <stop offset="1" stop-color="#8fc7ff" />
+    </linearGradient>
+  </defs>
+  <!-- companion owl, centered with maskable safe-zone padding -->
+  <g transform="translate(106 96) scale(3.0)">
+    <path d="M28 24 L38 40 L20 38 Z" fill="#7c5cbf" />
+    <path d="M72 24 L62 40 L80 38 Z" fill="#7c5cbf" />
+    <ellipse cx="50" cy="58" rx="34" ry="36" fill="#8b6fd0" />
+    <ellipse cx="50" cy="64" rx="22" ry="26" fill="#f4ead0" />
+    <circle cx="39" cy="48" r="13" fill="#fff" />
+    <circle cx="61" cy="48" r="13" fill="#fff" />
+    <circle cx="41" cy="49" r="6" fill="#2b2140" />
+    <circle cx="59" cy="49" r="6" fill="#2b2140" />
+    <path d="M50 56 L45 62 L55 62 Z" fill="#f5a524" />
+  </g>
+</svg>
