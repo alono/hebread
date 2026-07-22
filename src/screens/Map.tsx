@@ -110,7 +110,7 @@ export function Map() {
                     onClick={() => startLevel(level)}
                     className="rounded-full bg-amber-400 px-5 py-2 font-bold text-amber-950 shadow transition active:scale-95 hover:bg-amber-300"
                   >
-                    {level.exerciseTypes.includes('readAloud') ? 'קְרָא 📖' : 'שַׂחֵק ▶'}
+                    {level.exerciseTypes.includes('readAloud') ? 'קְרָא 📖' : 'שַׂחֵק ◀'}
                   </button>
                   {!rec.completed && (
                     <button
