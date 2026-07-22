@@ -84,8 +84,11 @@ export function ReadAloud() {
 
   const step = steps[index];
 
+  // Only comprehension QUESTIONS are spoken. The sentences themselves are never
+  // read by the app — the CHILD reads them aloud and the parent approves; TTS
+  // reading the text first would give the answer away.
   useEffect(() => {
-    if (phase !== 'run' || !step) return;
+    if (phase !== 'run' || !step || step.kind !== 'comp') return;
     const t = setTimeout(() => audio.play(step.audioId), 250);
     return () => clearTimeout(t);
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -169,12 +172,9 @@ export function ReadAloud() {
         {step.kind === 'read' ? (
           <>
             <p className="text-base text-slate-600">קִרְאוּ בְּקוֹל רָם, וְהַהוֹרֶה יְסַמֵּן</p>
-            <div className="flex items-center gap-4">
-              <p data-testid="read-sentence" className="font-hebrew text-4xl font-bold leading-niqqud text-slate-800 sm:text-5xl" dir="rtl">
-                {step.text}
-              </p>
-              <SpeakerButton onClick={() => audio.play(step.audioId)} />
-            </div>
+            <p data-testid="read-sentence" className="max-w-xl text-center font-hebrew text-4xl font-bold leading-niqqud text-slate-800 sm:text-5xl" dir="rtl">
+              {step.text}
+            </p>
             <div className="flex gap-4">
               <button data-testid="mark-again" onClick={() => markRead(false)} className="flex h-20 w-24 items-center justify-center rounded-3xl bg-rose-50 text-4xl shadow ring-2 ring-rose-200 transition active:scale-95" aria-label="עוֹד תִּרְגּוּל">✗</button>
               <button data-testid="mark-ok" onClick={() => markRead(true)} className="flex h-20 w-24 items-center justify-center rounded-3xl bg-emerald-50 text-4xl shadow ring-2 ring-emerald-300 transition active:scale-95" aria-label="קָרָא נָכוֹן">✓</button>

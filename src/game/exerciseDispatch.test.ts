@@ -7,10 +7,13 @@ const noEmoji: WordItem = { id: 'b', display: 'שֶׁל', syllables: ['שֶׁל'
 const TYPES: ExerciseType[] = ['buildWord', 'wordToPic', 'hearPick'];
 
 describe('wordExerciseType', () => {
-  it('alternates buildWord/wordToPic by index for words with an emoji', () => {
+  it('build-word dominates 2:1 for words with an emoji', () => {
     expect(wordExerciseType(TYPES, withEmoji, 0)).toBe('buildWord');
     expect(wordExerciseType(TYPES, withEmoji, 1)).toBe('wordToPic');
     expect(wordExerciseType(TYPES, withEmoji, 2)).toBe('buildWord');
+    expect(wordExerciseType(TYPES, withEmoji, 3)).toBe('buildWord');
+    expect(wordExerciseType(TYPES, withEmoji, 4)).toBe('wordToPic');
+    expect(wordExerciseType(TYPES, withEmoji, 5)).toBe('buildWord');
   });
 
   it('never routes an emoji-less word to wordToPic', () => {
